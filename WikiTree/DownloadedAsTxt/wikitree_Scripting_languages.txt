@@ -1,0 +1,50 @@
+
+Scripting_languages
+├── ActionScript
+├── CFML programming language
+|   └── CFML compilers
+├── D3.js
+|   └── D3.js people
+├── JavaScript
+|   ├── JavaScript engines
+|   ├── Adaptive web design
+|   ├── Ajax (programming)
+|   |   └── JSON
+|   ├── Free software programmed in JavaScript
+|   |   └── Nextcloud
+|   ├── JavaScript-based HTML editors
+|   ├── JSON
+|   ├── JavaScript libraries
+|   |   ├── JavaScript visualization toolkits
+|   |   |   └── D3.js
+|   |   |       └── D3.js people
+|   |   └── JavaScript web frameworks
+|   ├── People associated with JavaScript
+|   ├── JavaScript software
+|   └── JavaScript programming tools
+├── Lua (programming language)
+|   ├── Lua (programming language) software
+|   |   ├── Lua (programming language)-scriptable software
+|   |   |   └── Lua (programming language)-scriptable game engines
+|   |   └── Lua (programming language)-scripted software
+|   |       ├── Free software programmed in Lua (programming language)
+|   |       └── Lua (programming language)-scripted video games
+|   |           ├── Diesel (game engine) games
+|   |           ├── Enigma Engine games
+|   |           └── Silent Storm engine games
+|   └── Lua (programming language)-scriptable hardware
+├── PHP
+|   ├── Articles with example PHP code
+|   ├── PHP software
+|   |   ├── Free software programmed in PHP
+|   |   |   └── Nextcloud
+|   |   ├── PHP libraries
+|   |   └── PHP frameworks
+|   |       ├── TYPO3
+|   |       └── Web programming
+|   ├── WAMP
+|   └── PHP writers
+├── Rexx
+├── Template engines
+├── TypeScript
+└── XTalk
