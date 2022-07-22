@@ -1,0 +1,3410 @@
+
+Inventions_by_country
+├── Algerian inventions
+|   └── Algerian inventors
+|       └── 21st-century Algerian inventors
+├── American inventions
+|   ├── American inventors
+|   |   ├── 18th-century American inventors
+|   |   ├── 19th-century American inventors
+|   |   ├── 20th-century American inventors
+|   |   |   ├── Alexander Graham Bell
+|   |   |   └── Charles F. Kettering
+|   |   ├── 21st-century American inventors
+|   |   ├── African-American inventors
+|   |   |   └── George Washington Carver
+|   |   ├── Alaska Native inventors and scientists
+|   |   ├── Jewish American inventors
+|   |   ├── American patent holders
+|   |   ├── Puerto Rican inventors
+|   |   └── American inventor stubs
+|   ├── Bulletin board systems
+|   |   ├── BBS networks
+|   |   ├── Bulletin board system software
+|   |   |   ├── FidoNet software
+|   |   |   └── FOSSIL
+|   |   ├── Cult of the Dead Cow
+|   |   |   ├── Cult of the Dead Cow images
+|   |   |   ├── Cult of the Dead Cow members
+|   |   |   └── Cult of the Dead Cow software
+|   |   ├── Door games
+|   |   ├── FidoNet
+|   |   |   └── FidoNet software
+|   |   ├── BBS file transfer protocols
+|   |   ├── MindVox
+|   |   └── Terminal emulators
+|   |       ├── Console applications
+|   |       └── Free terminal emulators
+|   ├── Coolers
+|   |   └── Cooler manufacturers
+|   ├── Drilling rigs
+|   |   ├── Drilling rig operators
+|   |   |   ├── Schlumberger
+|   |   |   └── Transocean
+|   |   ├── Drillships
+|   |   └── Jack-up rigs
+|   ├── General Electric inventions
+|   ├── Global Positioning System
+|   |   ├── GPS navigation software
+|   |   ├── People associated with the Global Positioning System
+|   |   ├── GPS satellites
+|   |   ├── GPS sports tracking applications
+|   |   └── WAAS reference stations
+|   ├── Inventions by Benjamin Franklin
+|   ├── Inventions by Nikola Tesla
+|   |   └── Three-phase AC power
+|   |       └── Railways using three-phase power
+|   ├── Microsoft Windows
+|   |   ├── Windows administration
+|   |   |   ├── Backup software for Windows
+|   |   |   └── Windows remote administration software
+|   |   ├── Windows APIs
+|   |   ├── Windows architecture
+|   |   |   └── Windows NT architecture
+|   |   ├── Windows components
+|   |   |   ├── Windows communication and services
+|   |   |   ├── DirectX
+|   |   |   ├── Discontinued Windows components
+|   |   |   ├── Windows disk file systems
+|   |   |   ├── Icons of Microsoft Windows
+|   |   |   ├── Microsoft Edge
+|   |   |   ├── Microsoft Windows sample music
+|   |   |   ├── Microsoft Windows multimedia technology
+|   |   |   ├── .NET
+|   |   |   ├── Windows audio
+|   |   |   ├── Windows commands
+|   |   |   ├── Windows NT kernel
+|   |   |   └── Windows services
+|   |   ├── Discontinued versions of Microsoft Windows
+|   |   |   ├── Windows Mobile
+|   |   |   └── Windows Phone
+|   |   ├── Windows files
+|   |   ├── Microsoft Windows magazines
+|   |   ├── Microsoft Windows people
+|   |   ├── Windows rootkit techniques
+|   |   ├── Screenshots of Microsoft Windows
+|   |   |   ├── Screenshots of Windows 3.x
+|   |   |   ├── Screenshots of Windows 7
+|   |   |   ├── Screenshots of Windows 8
+|   |   |   ├── Screenshots of Windows 10
+|   |   |   ├── Screenshots of Windows 11
+|   |   |   ├── Screenshots of Windows 95
+|   |   |   ├── Screenshots of Windows 98
+|   |   |   ├── Screenshots of Windows 2000
+|   |   |   ├── Screenshots of Windows ME
+|   |   |   ├── Screenshots of Windows Server
+|   |   |   ├── Screenshots of Windows Vista
+|   |   |   └── Screenshots of Windows XP
+|   |   ├── Windows software
+|   |   |   ├── Amateur radio software for Windows
+|   |   |   ├── Backup software for Windows
+|   |   |   ├── Business software for Windows
+|   |   |   ├── Computer-aided design software for Windows
+|   |   |   ├── Concept- and mind-mapping software programmed in Java
+|   |   |   ├── Cross-platform software
+|   |   |   ├── Desktop publishing software for Windows
+|   |   |   ├── Digital rights management for Windows
+|   |   |   ├── Educational software for Windows
+|   |   |   ├── Windows games
+|   |   |   ├── Instant messaging clients programmed in Java
+|   |   |   ├── Windows malware
+|   |   |   ├── Personal information manager software for Windows
+|   |   |   ├── Programming tools for Windows
+|   |   |   ├── Science software for Windows
+|   |   |   ├── Screenshots of Windows software
+|   |   |   ├── Spreadsheet software for Windows
+|   |   |   ├── Universal Windows Platform apps
+|   |   |   ├── Utilities for Windows
+|   |   |   ├── Video editing software for Windows
+|   |   |   ├── Windows administration
+|   |   |   ├── Windows adware
+|   |   |   ├── Windows database-related software
+|   |   |   ├── Windows emulation software
+|   |   |   ├── Windows file-tagging software
+|   |   |   ├── Windows graphics-related software
+|   |   |   ├── Windows Internet software
+|   |   |   ├── Windows multimedia software
+|   |   |   ├── Windows network-related software
+|   |   |   ├── Windows Phone software
+|   |   |   ├── Windows security software
+|   |   |   ├── Windows text-related software
+|   |   |   ├── Windows-only software
+|   |   |   └── Windows software stubs
+|   |   ├── Windows technology
+|   |   |   ├── Windows code pages
+|   |   |   ├── Microsoft Windows security technology
+|   |   |   ├── Windows device names
+|   |   |   └── Windows environment variables
+|   |   ├── Windows 95
+|   |   |   └── Screenshots of Windows 95
+|   |   ├── Windows 96
+|   |   ├── Windows 98
+|   |   |   └── Screenshots of Windows 98
+|   |   ├── Windows ME
+|   |   |   └── Screenshots of Windows ME
+|   |   ├── Windows Mobile
+|   |   |   ├── Windows Mobile devices
+|   |   |   └── Windows Mobile software
+|   |   ├── Windows NT
+|   |   |   ├── Windows NT architecture
+|   |   |   ├── Windows 7
+|   |   |   ├── Windows 8
+|   |   |   ├── Windows 10
+|   |   |   ├── Windows 11
+|   |   |   ├── Windows 2000
+|   |   |   ├── Windows Server
+|   |   |   ├── Windows Vista
+|   |   |   └── Windows XP
+|   |   ├── Windows Phone
+|   |   |   ├── Windows Phone devices
+|   |   |   └── Windows Phone software
+|   |   └── Microsoft Windows stubs
+|   ├── MPEG
+|   |   ├── Digital Video Broadcasting
+|   |   |   └── Digital Video Broadcasting software
+|   |   ├── ISDB
+|   |   |   └── ABNT standards
+|   |   ├── MP3
+|   |   |   └── Digital audio players
+|   |   ├── MPEG-2
+|   |   ├── MPEG-4
+|   |   ├── MPEG-H
+|   |   └── Portable media players
+|   |       ├── Touchscreen portable media players
+|   |       └── Windows Mobile devices
+|   ├── Oculus Quest
+|   |   └── Oculus Quest games
+|   ├── Oculus Rift
+|   |   └── Oculus Rift games
+|   ├── Shaker inventions
+|   ├── Sports originating in the United States
+|   |   ├── Native American sports and games
+|   |   |   ├── Lacrosse of the Iroquois Confederacy
+|   |   |   └── Native American sportspeople
+|   |   └── Pickleball
+|   |       ├── Pickleball competitions
+|   |       ├── Pickleball governing bodies logos
+|   |       ├── Pickleball organizations
+|   |       ├── Pickleball players
+|   |       └── Pickleball terminology
+|   ├── Taser
+|   └── Virtual reality
+|       ├── Haptic technology
+|       |   └── Affective haptics
+|       ├── Virtual reality headsets
+|       |   ├── HTC Vive
+|       |   ├── Oculus Quest
+|       |   ├── Oculus Rift
+|       |   ├── PlayStation VR
+|       |   ├── Samsung Gear VR
+|       |   └── Virtual Boy
+|       ├── Holography
+|       |   ├── Holonomic brain theory
+|       |   ├── Holographic data storage
+|       |   ├── Holography in fiction
+|       |   └── Holography industry
+|       ├── Mixed reality
+|       |   ├── Augmented reality
+|       |   ├── HTC Vive
+|       |   ├── Interactive art
+|       |   ├── Mixed reality games
+|       |   ├── Oculus Quest
+|       |   ├── Oculus Rift
+|       |   ├── On-set virtual production
+|       |   ├── PlayStation VR
+|       |   └── Simulated reality in fiction
+|       ├── Virtual reality organizations
+|       |   └── Virtual reality companies
+|       ├── Virtual reality pioneers
+|       ├── Psychoacoustics
+|       |   ├── Auditory illusions
+|       |   └── Auditory scientists
+|       ├── Ray tracing (graphics)
+|       |   └── Amiga raytracers
+|       ├── Video gaming
+|       |   ├── Video gaming by country
+|       |   ├── Video gaming by period
+|       |   ├── Works adapted into video games
+|       |   ├── Video game culture
+|       |   ├── Video game development
+|       |   ├── Video game distribution
+|       |   ├── Video game emulation
+|       |   ├── Video game events
+|       |   ├── Fictional content in video games
+|       |   ├── Video game franchises
+|       |   ├── Video game genres
+|       |   ├── Video game hardware
+|       |   ├── Health and video gaming
+|       |   ├── Video game industry
+|       |   ├── Video game levels
+|       |   ├── Video game media files
+|       |   ├── Video game music
+|       |   ├── Video game types
+|       |   └── Video game studies
+|       ├── Virtual avatars
+|       |   ├── Avatar characters in video games
+|       |   ├── Virtual influencers
+|       |   └── VTubers
+|       ├── Virtual economy
+|       |   ├── Fictional currencies
+|       |   └── Virtual economies
+|       ├── Virtual reality communities
+|       ├── Virtual reality in fiction
+|       |   ├── Simulated reality in fiction
+|       |   ├── Television shows about virtual reality
+|       |   ├── Code Lyoko
+|       |   ├── Digimon
+|       |   ├── Films about virtual reality
+|       |   ├── .hack
+|       |   ├── Novels about virtual reality
+|       |   ├── Tom Clancy's Net Force
+|       |   └── Video games about virtual reality
+|       └── Virtual reality works
+|           ├── Virtual reality films
+|           └── Virtual reality games
+├── Argentine inventions
+|   └── Sports originating in Argentina
+├── Armenian inventions
+├── Australian inventions
+|   ├── Australian inventors
+|   |   ├── 18th-century Australian inventors
+|   |   ├── 19th-century Australian inventors
+|   |   ├── 20th-century Australian inventors
+|   |   └── 21st-century Australian inventors
+|   ├── Atmosfear (series)
+|   └── Sports originating in Australia
+├── Austrian inventions
+|   └── Sports originating in Austria
+├── Azerbaijani inventions
+├── Bangladeshi inventions
+|   ├── Bangladeshi cuisine
+|   |   ├── Bangladeshi dishes by main ingredient
+|   |   |   ├── Bangladeshi meat dishes
+|   |   |   ├── Bangladeshi rice dishes
+|   |   |   ├── Bangladeshi seafood dishes
+|   |   |   └── Bangladeshi vegetable dishes
+|   |   ├── Bangladeshi cuisine in the United Kingdom
+|   |   ├── Alcohol in Bangladesh
+|   |   |   └── Beer in Bangladesh
+|   |   ├── Bangladeshi snack foods
+|   |   ├── Bengali cuisine
+|   |   |   ├── Bengali curries
+|   |   |   └── Bengali desserts
+|   |   ├── Bangladeshi drinks
+|   |   ├── Bangladeshi chefs
+|   |   |   └── Bangladeshi television chefs
+|   |   ├── Chittagonian cuisine
+|   |   ├── Bangladeshi condiments
+|   |   |   └── Chutney
+|   |   ├── Bangladeshi confectionery
+|   |   |   └── Confectionery companies of Bangladesh
+|   |   ├── Bangladeshi desserts
+|   |   |   ├── Bengali desserts
+|   |   |   └── Bangladeshi confectionery
+|   |   ├── Bangladeshi fast food
+|   |   ├── Bangladeshi soups and stews
+|   |   ├── Sylheti cuisine
+|   |   └── Bangladeshi cuisine stubs
+|   ├── Bangladeshi games
+|   ├── Microfinance
+|   |   ├── Micro venture capital firms
+|   |   |   └── Micro venture capital firms of the United States
+|   |   ├── Microfinance banks
+|   |   |   └── Microfinance banks by country
+|   |   ├── Microfinance by continent
+|   |   |   ├── Microfinance in Africa
+|   |   |   ├── Microfinance in Asia
+|   |   |   ├── Microfinance in North America
+|   |   |   └── Microfinance in South America
+|   |   ├── Microinsurance
+|   |   |   └── Microinsurance companies
+|   |   ├── Microfinance organizations
+|   |   |   ├── BRAC (organisation)
+|   |   |   ├── Microfinance companies
+|   |   |   ├── Credit unions
+|   |   |   └── Non-profit microfinance organizations
+|   |   ├── Microfinance people
+|   |   |   └── Indian microfinance people
+|   |   ├── Rotating savings and credit association
+|   |   └── Microfinance software
+|   └── Microfinance in Asia
+|       ├── Microfinance companies of Asia
+|       |   └── Microfinance companies of India
+|       ├── Microfinance in India
+|       |   ├── Microfinance companies of India
+|       |   └── Indian microfinance people
+|       └── Microfinance in Pakistan
+|           └── Microfinance banks in Pakistan
+├── Belarusian inventions
+├── Belgian inventions
+|   └── French fries
+├── Bhutanese inventions
+|   └── Sports originating in Bhutan
+├── Brazilian inventions
+|   ├── Brazilian inventors
+|   └── Sports originating in Brazil
+|       ├── Brazilian martial arts
+|       |   ├── Brazilian jiu-jitsu
+|       |   ├── Capoeira
+|       |   └── Vale Tudo
+|       └── Vale Tudo
+|           ├── Fictional Vale Tudo practitioners
+|           └── Mixed martial artists utilizing vale tudo
+├── British inventions
+|   ├── English inventions
+|   |   ├── Cast iron
+|   |   |   ├── Cast-iron architecture
+|   |   |   ├── Cast-iron sculptures
+|   |   |   ├── Coalbrookdale
+|   |   |   └── Ironbridge Gorge
+|   |   ├── Newcomen engines
+|   |   |   └── Preserved Newcomen engines
+|   |   ├── English inventors
+|   |   |   ├── Inventors from Cornwall
+|   |   |   └── 17th-century English inventors
+|   |   ├── English musical instruments
+|   |   ├── Offender profiling
+|   |   |   ├── Behavioral Analysis Unit
+|   |   |   ├── Criminology handbooks and manuals
+|   |   |   ├── National Center for the Analysis of Violent Crime
+|   |   |   └── Psychopathy
+|   |   ├── Paperboard
+|   |   |   └── Paperboard packaging
+|   |   ├── Sports originating in England
+|   |   |   └── Tennis
+|   |   └── Turing machine
+|   ├── Northern Irish inventions
+|   ├── Scottish inventions
+|   |   ├── Scottish inventors
+|   |   |   ├── 19th-century Scottish inventors
+|   |   |   ├── 20th-century Scottish inventors
+|   |   |   ├── 21st-century Scottish inventors
+|   |   |   ├── Alexander Graham Bell
+|   |   |   └── James Clerk Maxwell
+|   |   ├── Scottish musical instruments
+|   |   |   └── Shetland musical instruments
+|   |   ├── Sirens
+|   |   ├── Sports originating in Scotland
+|   |   ├── Steam hammers
+|   |   └── Whisky
+|   |       ├── Whisky by country
+|   |       ├── Cask strength
+|   |       ├── Cocktails with whisky
+|   |       ├── Malt whisky
+|   |       ├── Rye whiskey
+|   |       ├── Sazerac Company brands
+|   |       ├── Wheat whisky
+|   |       ├── Whiskies of Asia
+|   |       ├── Whisky blenders
+|   |       ├── Whisky distillers
+|   |       ├── Whisky trails
+|   |       ├── Whisky writers
+|   |       └── Whisky stubs
+|   ├── Welsh inventions
+|   |   ├── Welsh inventors
+|   |   ├── Welsh musical instruments
+|   |   └── Sports originating in Wales
+|   ├── Holography
+|   |   ├── Holonomic brain theory
+|   |   ├── Holographic data storage
+|   |   ├── Holography in fiction
+|   |   |   ├── Dead Space (franchise) games
+|   |   |   ├── Fictional illusionists
+|   |   |   ├── Holography in films
+|   |   |   └── Holography in television
+|   |   └── Holography industry
+|   ├── Raspberry Pi
+|   └── Sports originating in the United Kingdom
+|       ├── Sports originating in England
+|       |   └── Tennis
+|       ├── Sports originating in Scotland
+|       └── Sports originating in Wales
+├── Bulgarian inventions
+├── Burmese inventions
+|   └── Sports originating in Myanmar
+├── Byzantine inventions
+├── Canadian inventions
+|   ├── IMAX
+|   |   ├── IMAX films
+|   |   |   ├── 3D Entertainment films
+|   |   |   ├── IMAX documentary films
+|   |   |   ├── Lists of IMAX films
+|   |   |   ├── IMAX short films
+|   |   |   └── Upcoming IMAX films
+|   |   └── IMAX venues
+|   |       ├── Defunct IMAX venues
+|   |       └── SM Mall of Asia
+|   └── Sports originating in Canada
+├── Chilean inventions
+|   ├── Chilean inventors
+|   └── Sports originating in Chile
+├── Chinese inventions
+|   ├── Acupuncture
+|   |   ├── Acupuncturists
+|   |   └── Acupuncture organizations
+|   ├── Bamboo and wooden slips
+|   ├── Belt drives
+|   ├── Blast furnaces
+|   |   ├── Blast furnaces in England
+|   |   ├── Blast furnaces in Turkey
+|   |   └── Blast furnaces in the United States
+|   ├── Cast iron
+|   |   ├── Cast-iron architecture
+|   |   |   ├── Cast iron aqueducts
+|   |   |   ├── Cast-iron arch bridges
+|   |   |   ├── Cast-iron architecture in India
+|   |   |   ├── Cast-iron architecture in Spain
+|   |   |   ├── Cast-iron architecture in the United Kingdom
+|   |   |   ├── Cast-iron architecture in the United States
+|   |   |   └── Cast-iron architecture in Venezuela
+|   |   ├── Cast-iron sculptures
+|   |   ├── Coalbrookdale
+|   |   |   └── People from Coalbrookdale
+|   |   └── Ironbridge Gorge
+|   |       ├── Coalbrookdale
+|   |       ├── Ironbridge Gorge Museum Trust
+|   |       ├── People from Ironbridge
+|   |       └── River Severn
+|   ├── Chinese bronzeware
+|   |   ├── Shang dynasty bronzeware
+|   |   └── Zhou dynasty bronzeware
+|   ├── Chinese games
+|   |   ├── Chinese ancient games
+|   |   |   ├── Go (game)
+|   |   |   └── Xiangqi
+|   |   ├── Chinese card games
+|   |   ├── Chinese dominoes
+|   |   ├── Go in China
+|   |   |   ├── Chinese Go players
+|   |   |   └── Go competitions in China
+|   |   ├── Mahjong
+|   |   |   ├── Mahjong competitions
+|   |   |   ├── Mahjong organizations
+|   |   |   ├── Mahjong players
+|   |   |   └── Works about mahjong
+|   |   ├── Tibetan games
+|   |   └── Video games developed in China
+|   |       ├── China-exclusive video games
+|   |       └── Video games developed in Hong Kong
+|   ├── Chinese inventors
+|   |   ├── 20th-century Chinese inventors
+|   |   └── Taiwanese inventors
+|   ├── Chinese lacquerware
+|   ├── Chinese musical instruments
+|   |   ├── Chinese musical instrument makers
+|   |   |   └── Musical instrument manufacturing companies of China
+|   |   ├── Cymbals
+|   |   |   └── Cymbal manufacturing companies
+|   |   ├── Gongs
+|   |   |   ├── Individual gongs
+|   |   |   ├── Sets of gongs
+|   |   |   └── Kulintang
+|   |   ├── Guqin
+|   |   |   ├── Guqin organizations
+|   |   |   └── Guqin players
+|   |   ├── Huqin family instruments
+|   |   |   └── Erhu players
+|   |   └── Uyghur musical instruments
+|   ├── Coffins
+|   ├── Crankshafts
+|   ├── Crops originating from China
+|   |   ├── Chinese fruit
+|   |   |   └── Chinese apples
+|   |   └── Tea
+|   |       ├── Tea by continent
+|   |       ├── Tea by country
+|   |       ├── Cocktails with tea
+|   |       ├── Tea culture
+|   |       ├── History of tea
+|   |       ├── Tea houses
+|   |       ├── Tea organizations
+|   |       ├── Tea critics
+|   |       ├── Tea dishes
+|   |       ├── Tea industry
+|   |       ├── Teaware
+|   |       ├── Tea varieties
+|   |       ├── Works about tea
+|   |       └── Tea stubs
+|   ├── Drilling rigs
+|   |   ├── Drilling rig operators
+|   |   |   ├── Schlumberger
+|   |   |   └── Transocean
+|   |   ├── Drillships
+|   |   └── Jack-up rigs
+|   ├── Drydocks
+|   |   ├── Dry docks in Indonesia
+|   |   ├── Royal Navy dockyards
+|   |   |   ├── Royal Navy dockyards in Canada
+|   |   |   ├── Royal Naval Dockyard, Bermuda
+|   |   |   └── Royal Navy dockyards in the United Kingdom
+|   |   └── Royal Navy dockyards in Canada
+|   ├── Fermentation in food processing
+|   |   └── Fermented foods
+|   |       ├── Animal-based fermented foods
+|   |       ├── Breads
+|   |       ├── Fermented drinks
+|   |       ├── Fermented sausages
+|   |       ├── Fermented soy-based foods
+|   |       ├── Pasteurized fermented foods
+|   |       ├── Pickles
+|   |       ├── Plant-based fermented foods
+|   |       ├── Sourdough breads
+|   |       ├── Vinegar
+|   |       └── Yeast breads
+|   ├── Fireworks
+|   |   ├── Fireworks policy by country
+|   |   ├── Fireworks accidents and incidents
+|   |   |   └── Building and structure fires started by pyrotechnics
+|   |   ├── Fireworks events
+|   |   |   ├── Fireworks events in Asia
+|   |   |   ├── Fireworks competitions
+|   |   |   ├── Fireworks events in Europe
+|   |   |   ├── Fireworks events in North America
+|   |   |   ├── Fireworks events in Oceania
+|   |   |   └── Walt Disney Parks and Resorts fireworks
+|   |   ├── Illegal fireworks operations
+|   |   ├── Fireworks organizations
+|   |   |   └── Fireworks companies
+|   |   └── Types of fireworks
+|   ├── Folding screens
+|   |   ├── Byōbu
+|   |   └── Irworobongdo
+|   ├── Gunpowder
+|   |   ├── Fireworks
+|   |   |   ├── Fireworks policy by country
+|   |   |   ├── Fireworks accidents and incidents
+|   |   |   ├── Fireworks events
+|   |   |   ├── Illegal fireworks operations
+|   |   |   ├── Fireworks organizations
+|   |   |   └── Types of fireworks
+|   |   └── Gunpowder mills
+|   ├── Hole making
+|   ├── Hong Kong inventions
+|   |   ├── Dim sum
+|   |   └── Hong Kong inventors
+|   ├── Horse harness
+|   ├── Imperial examination
+|   |   └── Imperial examination in fiction
+|   ├── Lacquerware
+|   |   ├── East Asian lacquer
+|   |   |   ├── Chinese lacquerware
+|   |   |   └── Japanese lacquerware
+|   |   └── Lacquerware artists
+|   |       ├── Japanese lacquerware artists
+|   |       └── Urushi artists
+|   ├── Night markets
+|   |   ├── Night markets in Hong Kong
+|   |   ├── Night markets in Canada
+|   |   ├── Night markets in the United States
+|   |   ├── Night markets in Taiwan
+|   |   |   ├── Night markets in Chiayi
+|   |   |   ├── Night markets in Kaohsiung
+|   |   |   ├── Night markets in New Taipei
+|   |   |   └── Night markets in Taipei
+|   |   └── Night markets in Thailand
+|   |       └── Night markets in Bangkok
+|   ├── Noodles
+|   |   ├── Noodle dishes
+|   |   |   ├── Noodle dishes by country
+|   |   |   ├── Cold noodles
+|   |   |   ├── Fried noodles
+|   |   |   ├── Jewish noodle dishes
+|   |   |   ├── Mixed noodles
+|   |   |   ├── Pasta dishes
+|   |   |   └── Noodle soups
+|   |   ├── Indian noodles
+|   |   ├── Indonesian noodles
+|   |   |   └── Indonesian noodle dishes
+|   |   ├── Instant noodle brands
+|   |   ├── Laotian noodles
+|   |   |   └── Laotian noodle dishes
+|   |   ├── Malaysian noodles
+|   |   |   └── Malaysian noodle dishes
+|   |   ├── Noodles by region
+|   |   |   └── East Asian noodles
+|   |   ├── Pasta
+|   |   |   ├── Pasta dishes
+|   |   |   ├── Pasta industry
+|   |   |   └── Types of pasta
+|   |   ├── Philippine noodles
+|   |   |   └── Philippine noodle dishes
+|   |   ├── Noodle restaurants
+|   |   |   └── Ramen shops
+|   |   ├── Singaporean noodles
+|   |   |   └── Singaporean noodle dishes
+|   |   ├── Sri Lankan noodles
+|   |   |   └── Sri Lankan noodle dishes
+|   |   ├── Thai noodles
+|   |   |   └── Thai noodle dishes
+|   |   └── Vietnamese noodles
+|   |       └── Vietnamese noodle dishes
+|   ├── Paper
+|   |   ├── Coated paper
+|   |   |   └── Paperboard
+|   |   ├── Electronic paper technology
+|   |   |   ├── Dedicated ebook devices
+|   |   |   ├── Ebooks
+|   |   |   ├── EPUB readers
+|   |   |   ├── Flexible displays
+|   |   |   └── Wattpad
+|   |   ├── Environmental impact of paper
+|   |   ├── Paper art
+|   |   |   ├── Paper artists
+|   |   |   ├── Bookbinding
+|   |   |   ├── Calligraphy
+|   |   |   ├── Collage
+|   |   |   ├── Origami
+|   |   |   ├── Paper folding
+|   |   |   ├── Silhouettes
+|   |   |   └── Silhouettists
+|   |   ├── Paper products
+|   |   |   ├── Banknotes
+|   |   |   ├── Books
+|   |   |   ├── Coated paper
+|   |   |   ├── Envelopes
+|   |   |   ├── Letters (message)
+|   |   |   ├── Notebooks
+|   |   |   ├── Paperboard
+|   |   |   ├── Postcards
+|   |   |   ├── Postage stamps
+|   |   |   ├── Toilet paper
+|   |   |   └── Vehicles made of paper
+|   |   ├── Paper recycling
+|   |   ├── Paper toys
+|   |   |   ├── Paper planes
+|   |   |   └── Paper vehicles
+|   |   ├── Papermaking
+|   |   |   ├── Papermaking by country
+|   |   |   ├── Papermaking museums
+|   |   |   ├── Papermakers
+|   |   |   ├── Pulp and paper mills
+|   |   |   ├── Pulp and paper mills in Egypt
+|   |   |   └── Watermarking
+|   |   ├── Printing and writing paper
+|   |   ├── Pulp and paper industry
+|   |   |   ├── Pulp and paper industry by country
+|   |   |   ├── Paper industry trade unions
+|   |   |   ├── Paperboard
+|   |   |   ├── Papermaking
+|   |   |   ├── People in the pulp and paper industry
+|   |   |   ├── Pulp and paper companies
+|   |   |   └── Pulp and paper mills
+|   |   └── Synthetic paper
+|   |       └── Synthetic paper industry
+|   ├── Porcelain
+|   |   ├── British porcelain
+|   |   ├── Danish porcelain
+|   |   |   └── Royal Copenhagen
+|   |   ├── East Asian porcelain
+|   |   |   ├── Chinese porcelain
+|   |   |   └── Japanese porcelain
+|   |   ├── German porcelain
+|   |   |   └── Meissen porcelain
+|   |   ├── Individual pieces of porcelain
+|   |   ├── Laboratory porcelainware
+|   |   ├── Lithophane
+|   |   ├── Ceramics manufacturers
+|   |   |   ├── Bathroom fixture companies
+|   |   |   ├── Figurine manufacturers
+|   |   |   ├── Ceramics manufacturers of Austria
+|   |   |   ├── Ceramics manufacturers of Bangladesh
+|   |   |   ├── Ceramics manufacturers of Canada
+|   |   |   ├── Ceramics manufacturers of China
+|   |   |   ├── Ceramics manufacturers of Colombia
+|   |   |   ├── Ceramics manufacturers of Denmark
+|   |   |   ├── Ceramics manufacturers of France
+|   |   |   ├── Ceramics manufacturers of Germany
+|   |   |   ├── Ceramics manufacturers of Hungary
+|   |   |   ├── Ceramics manufacturers of India
+|   |   |   ├── Ceramics manufacturers of Ireland
+|   |   |   ├── Ceramics manufacturers of Italy
+|   |   |   ├── Ceramics manufacturers of Japan
+|   |   |   ├── Ceramics manufacturers of Mexico
+|   |   |   ├── Ceramics manufacturers of the Netherlands
+|   |   |   ├── Ceramics manufacturers of New Zealand
+|   |   |   ├── Ceramics manufacturers of Norway
+|   |   |   ├── Ceramics manufacturers of Poland
+|   |   |   ├── Ceramics manufacturers of Portugal
+|   |   |   ├── Ceramics manufacturers of Russia
+|   |   |   ├── Ceramics manufacturers of Spain
+|   |   |   ├── Ceramics manufacturers of Sweden
+|   |   |   ├── Ceramics manufacturers of Turkey
+|   |   |   ├── Ceramics manufacturers of the United Arab Emirates
+|   |   |   ├── Ceramics manufacturers of the United Kingdom
+|   |   |   └── Ceramics manufacturers of the United States
+|   |   ├── Porcelain of France
+|   |   ├── Porcelain painters
+|   |   |   └── Maiolica painters
+|   |   ├── Porcelain sculptures
+|   |   ├── Porcelain rooms
+|   |   └── Porcelain of the United States
+|   ├── Printing
+|   |   ├── Printing by continent
+|   |   |   └── Printing in Antarctica
+|   |   ├── Printing by country
+|   |   |   ├── Printing in Denmark
+|   |   |   ├── Printing in India
+|   |   |   ├── Printing in England
+|   |   |   └── Printing in the United States
+|   |   ├── Printmaking
+|   |   |   ├── Engraving
+|   |   |   ├── Etching
+|   |   |   ├── Printmaking groups and organizations
+|   |   |   ├── Japonisme
+|   |   |   ├── Lithography
+|   |   |   ├── Printmakers
+|   |   |   ├── Prints (art)
+|   |   |   ├── Relief printing
+|   |   |   ├── Ukiyo-e
+|   |   |   └── Printmaking stubs
+|   |   ├── Print media
+|   |   |   ├── Print journalists
+|   |   |   ├── Periodicals
+|   |   |   ├── Academic journals
+|   |   |   ├── Books
+|   |   |   ├── Magazines
+|   |   |   ├── Maps
+|   |   |   ├── Newsletters
+|   |   |   ├── Newspapers
+|   |   |   ├── Pamphlets
+|   |   |   └── Print syndication
+|   |   ├── Books about printing
+|   |   |   └── History books about printing
+|   |   ├── Printing companies
+|   |   |   ├── Printing companies by country
+|   |   |   ├── 17th-century printing companies
+|   |   |   ├── 18th-century printing companies
+|   |   |   ├── 19th-century printing companies
+|   |   |   └── Banknote printing companies
+|   |   ├── Computer printing
+|   |   |   ├── 3D printing
+|   |   |   ├── Advanced Function Presentation
+|   |   |   ├── Printing protocols
+|   |   |   └── Printing software
+|   |   ├── Printing devices
+|   |   |   ├── 3D printers
+|   |   |   ├── Computer printers
+|   |   |   ├── Film recorders
+|   |   |   └── Plotters
+|   |   ├── Printing and the environment
+|   |   ├── History of printing
+|   |   |   ├── History books about printing
+|   |   |   ├── Johannes Gutenberg
+|   |   |   ├── Historians of printing
+|   |   |   ├── Incunabula
+|   |   |   ├── Letterpress printing
+|   |   |   ├── Printing press manufacturers
+|   |   |   ├── Printing press museums
+|   |   |   └── Text publication societies
+|   |   ├── Printing materials
+|   |   |   └── Paper
+|   |   ├── Printing occupations
+|   |   ├── Page layout
+|   |   |   └── Template generators
+|   |   ├── Printers
+|   |   |   ├── Printers by nationality
+|   |   |   ├── Printing companies
+|   |   |   ├── 15th-century printers
+|   |   |   ├── 16th-century printers
+|   |   |   ├── 17th-century printers
+|   |   |   ├── 18th-century printers
+|   |   |   ├── 19th-century printers
+|   |   |   ├── Printers of incunabula
+|   |   |   ├── Music printers
+|   |   |   ├── Typesetters
+|   |   |   └── Women printers
+|   |   ├── Printing and writing paper
+|   |   ├── Printing press manufacturers
+|   |   ├── Printing processes
+|   |   |   ├── 3D printing processes
+|   |   |   ├── Impact printing
+|   |   |   ├── Non-impact printing
+|   |   |   ├── Planographic printing
+|   |   |   ├── Relief printing
+|   |   |   └── Screen printing
+|   |   ├── Print production
+|   |   |   └── Quality issues in printing
+|   |   ├── Secret printing
+|   |   ├── Security printing
+|   |   |   └── Banknote printing companies
+|   |   ├── Stationery
+|   |   |   ├── American stationers
+|   |   |   ├── Business cards
+|   |   |   ├── Correction instruments
+|   |   |   ├── Envelopes
+|   |   |   ├── Greeting cards
+|   |   |   ├── Japanese stationery
+|   |   |   ├── Notebooks
+|   |   |   ├── Paper
+|   |   |   ├── Postal stationery
+|   |   |   ├── Postcards
+|   |   |   ├── Printing and writing paper
+|   |   |   ├── Stationers (people)
+|   |   |   ├── Stickers
+|   |   |   ├── Stationers of the United Kingdom
+|   |   |   └── Writing implements
+|   |   ├── Printing terminology
+|   |   |   ├── Book terminology
+|   |   |   └── Newspaper terminology
+|   |   ├── Textile printing
+|   |   |   ├── Textile patterns
+|   |   |   └── Printed fabrics
+|   |   ├── Printing trade unions
+|   |   |   ├── Bookbinders' trade unions
+|   |   |   ├── Graphical, Paper and Media Union
+|   |   |   ├── Lithographers' trade unions
+|   |   |   ├── London Society of Compositors
+|   |   |   ├── National Graphical Association
+|   |   |   └── Typographical Association
+|   |   ├── Typesetting
+|   |   |   ├── Capitalization
+|   |   |   ├── Typesetting software
+|   |   |   └── Typesetters
+|   |   └── Typography
+|   |       ├── Blackletter
+|   |       ├── Capitalization
+|   |       ├── Diacritics
+|   |       ├── Digital typography
+|   |       ├── Filler text
+|   |       ├── Type foundries
+|   |       ├── Indic typography
+|   |       ├── Page layout
+|   |       ├── Ruby characters
+|   |       ├── Typefaces
+|   |       ├── Typesetting
+|   |       ├── Typographers and type designers
+|   |       ├── Typographical symbols
+|   |       └── Typography stubs
+|   ├── Rammed earth
+|   |   └── Rammed earth buildings and structures
+|   ├── Rockets and missiles
+|   |   ├── Missiles
+|   |   |   ├── Missile types
+|   |   |   ├── Air-launched missiles
+|   |   |   ├── Ballistic missiles
+|   |   |   ├── Experimental missiles
+|   |   |   ├── Guided missiles
+|   |   |   ├── IAI missiles
+|   |   |   ├── Iranian missile development program
+|   |   |   ├── Missile boats
+|   |   |   ├── Missile defense
+|   |   |   ├── Missile guidance
+|   |   |   ├── Missile range instrumentation ships
+|   |   |   ├── Missile operation
+|   |   |   ├── Penetration aids
+|   |   |   ├── Missile technology
+|   |   |   └── Missile stubs
+|   |   ├── Experimental rockets
+|   |   |   └── Experimental rockets of the United States
+|   |   ├── Individual rockets
+|   |   |   └── Individual Falcon 9 boosters
+|   |   ├── Lists of rocket launches
+|   |   |   ├── Ariane (rocket family) launches
+|   |   |   ├── Lists of Thor and Delta launches
+|   |   |   └── R-7 (rocket family) launches
+|   |   ├── Lists of rockets
+|   |   ├── Model rockets
+|   |   ├── Pressure-fed rockets
+|   |   |   └── Rocket engines using the pressure-fed cycle
+|   |   ├── Rocket cars
+|   |   |   └── Rocket land speed record cars
+|   |   ├── Rocket families
+|   |   |   ├── Antares (rocket family)
+|   |   |   ├── Ares (rocket family)
+|   |   |   ├── Ariane (rocket family)
+|   |   |   ├── Atlas (rocket family)
+|   |   |   ├── Long March (rocket family)
+|   |   |   ├── Minotaur (rocket family)
+|   |   |   ├── Nike (rocket family)
+|   |   |   ├── R-7 (rocket family)
+|   |   |   ├── Saturn (rocket family)
+|   |   |   ├── Scout (rocket family)
+|   |   |   ├── Shuttle-derived space launch vehicles
+|   |   |   ├── SpaceX launch vehicles
+|   |   |   ├── Thor (rocket family)
+|   |   |   ├── Titan (rocket family)
+|   |   |   ├── Universal Rocket (rocket family)
+|   |   |   └── Zenit (rocket family)
+|   |   ├── Rocket launchers
+|   |   |   ├── Missile launchers
+|   |   |   ├── Modular rocket launchers
+|   |   |   ├── Multiple rocket launchers
+|   |   |   ├── Rocket launch sites
+|   |   |   ├── Rocket-propelled grenade launchers
+|   |   |   ├── Self-propelled rocket launchers
+|   |   |   └── Ship-based missile launchers
+|   |   ├── Rocket weapons
+|   |   |   ├── Air-to-air rockets
+|   |   |   ├── Air-to-ground rockets
+|   |   |   ├── Anti-submarine missiles
+|   |   |   ├── Anti-tank rockets
+|   |   |   ├── Ballistic missiles
+|   |   |   ├── Intercontinental ballistic missiles
+|   |   |   ├── Missiles
+|   |   |   ├── Rocket weapons of Palestine
+|   |   |   ├── Penetration aids
+|   |   |   ├── Rocket launchers
+|   |   |   └── Rocket weapons of the United States
+|   |   ├── Rocket sculptures
+|   |   ├── Sounding rockets
+|   |   |   ├── Sounding rockets of Argentina
+|   |   |   ├── Sounding rockets of Australia
+|   |   |   ├── Sounding rockets of Brazil
+|   |   |   ├── Sounding rockets of Canada
+|   |   |   ├── Sounding rockets of China
+|   |   |   ├── Sounding rockets of France
+|   |   |   ├── Sounding rockets of Germany
+|   |   |   ├── Sounding rockets of India
+|   |   |   ├── Sounding rockets of Indonesia
+|   |   |   ├── Sounding rockets of Israel
+|   |   |   ├── Sounding rockets of Italy
+|   |   |   ├── Sounding rockets of Japan
+|   |   |   ├── Sounding rockets of South Korea
+|   |   |   ├── Sounding rockets of New Zealand
+|   |   |   ├── Sounding rockets of Pakistan
+|   |   |   ├── Sounding rockets of Poland
+|   |   |   ├── Sounding rockets of Russia
+|   |   |   ├── Sounding rockets of the Soviet Union
+|   |   |   ├── Sounding rockets of Spain
+|   |   |   ├── Sounding rockets of Sweden
+|   |   |   ├── Sounding rockets of Switzerland
+|   |   |   ├── Sounding rockets of the United Kingdom
+|   |   |   └── Sounding rockets of the United States
+|   |   ├── Space launch vehicles
+|   |   |   ├── Space launch vehicles by country
+|   |   |   ├── Spacecraft by launch system
+|   |   |   ├── Rocket families
+|   |   |   ├── Space launch vehicles of Europe
+|   |   |   ├── Cancelled space launch vehicles
+|   |   |   ├── Expendable space launch systems
+|   |   |   ├── Space launch vehicles manufacturers
+|   |   |   ├── Microsatellite launch vehicles
+|   |   |   ├── Proposed space launch vehicles
+|   |   |   ├── Reusable launch systems
+|   |   |   └── Sounding rockets
+|   |   └── VTVL rockets
+|   |       └── Individual Falcon 9 boosters
+|   ├── Silk
+|   |   ├── Silk in India
+|   |   ├── Silk production
+|   |   |   ├── Sericulture
+|   |   |   ├── Silk farms
+|   |   |   └── Silk mills
+|   |   ├── Silk Road
+|   |   |   ├── Buddhist monks from the Western Regions
+|   |   |   ├── Silk Road numismatics
+|   |   |   ├── Sites along the Silk Road
+|   |   |   ├── Tocharians
+|   |   |   └── Yuezhi
+|   |   └── Wild silk
+|   ├── Sports originating in China
+|   ├── Tea
+|   |   ├── Tea by continent
+|   |   |   ├── Tea in Africa
+|   |   |   ├── Tea in Asia
+|   |   |   ├── Tea in Europe
+|   |   |   ├── Tea in North America
+|   |   |   ├── Tea in Oceania
+|   |   |   └── Tea in South America
+|   |   ├── Tea by country
+|   |   |   ├── Tea brands by country
+|   |   |   ├── Tea culture by country
+|   |   |   ├── American tea
+|   |   |   ├── Chinese tea
+|   |   |   ├── Indian tea
+|   |   |   ├── Japanese tea
+|   |   |   ├── Kenyan tea
+|   |   |   ├── Korean tea
+|   |   |   ├── Malaysian tea
+|   |   |   ├── Nepalese tea
+|   |   |   ├── Pakistani tea
+|   |   |   ├── Russian tea
+|   |   |   ├── Sri Lankan tea
+|   |   |   ├── Taiwanese tea
+|   |   |   ├── Tea in the United Kingdom
+|   |   |   └── Vietnamese tea
+|   |   ├── Cocktails with tea
+|   |   ├── Tea culture
+|   |   |   ├── Tea culture by country
+|   |   |   ├── Tea ceremony
+|   |   |   ├── Chashitsu
+|   |   |   ├── Tea houses
+|   |   |   ├── Tea museums
+|   |   |   └── Tea culture by region
+|   |   ├── History of tea
+|   |   |   ├── Tea museums
+|   |   |   └── Tea clippers
+|   |   ├── Tea houses
+|   |   |   ├── Chashitsu
+|   |   |   └── Tea houses of the United Kingdom
+|   |   ├── Tea organizations
+|   |   |   ├── Tea companies
+|   |   |   └── Tea museums
+|   |   ├── Tea critics
+|   |   ├── Tea dishes
+|   |   ├── Tea industry
+|   |   |   ├── Businesspeople in tea
+|   |   |   ├── Tea companies
+|   |   |   ├── Tea industry in Pakistan
+|   |   |   ├── Tea production
+|   |   |   ├── Tea auctions
+|   |   |   ├── Tea industry in Bangladesh
+|   |   |   ├── Tea industry in India
+|   |   |   └── Tea industry in Sri Lanka
+|   |   ├── Teaware
+|   |   |   ├── Boilers (cookware)
+|   |   |   ├── Japanese tea utensils
+|   |   |   └── Teapots
+|   |   ├── Tea varieties
+|   |   |   ├── Black tea
+|   |   |   ├── Blended tea
+|   |   |   ├── Fermented tea
+|   |   |   ├── Green tea
+|   |   |   ├── Milk tea
+|   |   |   ├── Oolong tea
+|   |   |   ├── White tea
+|   |   |   └── Yellow tea
+|   |   ├── Works about tea
+|   |   |   └── Chinese tea classic texts
+|   |   └── Tea stubs
+|   ├── Teapots
+|   └── Tofu
+|       ├── Tofu condiments
+|       └── Tofu dishes
+├── Colombian inventions
+|   └── Sports originating in Colombia
+|       └── Colombian martial arts
+├── Croatian inventions
+├── Cuban inventions
+├── Czech inventions
+├── Danish inventions
+|   └── Sports originating in Denmark
+├── Dutch inventions
+|   ├── Animal breeds originating in the Netherlands
+|   |   ├── Lists of Dutch domestic animal breeds
+|   |   ├── Cattle breeds originating in the Netherlands
+|   |   ├── Chicken breeds originating in the Netherlands
+|   |   ├── Dog breeds originating in the Netherlands
+|   |   ├── Duck breeds originating in the Netherlands
+|   |   ├── Goat breeds originating in the Netherlands
+|   |   ├── Goose breeds originating in the Netherlands
+|   |   ├── Horse breeds originating in the Netherlands
+|   |   ├── Pig breeds originating in the Netherlands
+|   |   ├── Pigeon breeds originating in the Netherlands
+|   |   ├── Rabbit breeds originating in the Netherlands
+|   |   └── Sheep breeds originating in the Netherlands
+|   ├── Constellations listed by Petrus Plancius
+|   |   ├── Apus (constellation)
+|   |   ├── Camelopardalis (constellation)
+|   |   ├── Chamaeleon (constellation)
+|   |   ├── Columba (constellation)
+|   |   ├── Dorado (constellation)
+|   |   |   └── Large Magellanic Cloud
+|   |   ├── Grus (constellation)
+|   |   ├── Hydrus (constellation)
+|   |   ├── Indus (constellation)
+|   |   ├── Monoceros (constellation)
+|   |   |   └── NGC 2264
+|   |   ├── Musca (constellation)
+|   |   ├── Pavo (constellation)
+|   |   |   └── HD 181433
+|   |   ├── Phoenix (constellation)
+|   |   |   └── Robert's Quartet
+|   |   ├── Triangulum Australe
+|   |   ├── Tucana (constellation)
+|   |   |   └── Small Magellanic Cloud
+|   |   └── Volans (constellation)
+|   ├── Early modern Netherlandish cartography
+|   |   ├── 16th-century Dutch cartographers
+|   |   ├── 16th-century Flemish cartographers
+|   |   ├── 17th-century Dutch cartographers
+|   |   ├── 18th-century Dutch cartographers
+|   |   ├── Cartography in the Dutch Republic
+|   |   |   ├── 16th-century Dutch cartographers
+|   |   |   ├── 17th-century Dutch cartographers
+|   |   |   ├── 18th-century Dutch cartographers
+|   |   |   └── Dutch celestial cartography in the Age of Discovery
+|   |   └── Dutch celestial cartography in the Age of Discovery
+|   |       └── Constellations listed by Petrus Plancius
+|   ├── Inventions by Christiaan Huygens
+|   ├── Microscopes
+|   |   └── Microscope components
+|   ├── Microscopy
+|   |   ├── Cell imaging
+|   |   |   └── Staining
+|   |   ├── Electron microscopy
+|   |   |   ├── Electron microscopy stains
+|   |   |   └── Electron microscopy techniques
+|   |   ├── Microfossils
+|   |   |   ├── Acritarchs
+|   |   |   ├── Conodonts
+|   |   |   └── Palynology
+|   |   ├── Histology
+|   |   |   ├── Cell anatomy
+|   |   |   ├── Histochemistry
+|   |   |   ├── Histologists
+|   |   |   ├── Histopathology
+|   |   |   ├── Histotechnology
+|   |   |   ├── Immunohistochemistry
+|   |   |   ├── Romanowsky stains
+|   |   |   ├── Staining
+|   |   |   └── Tissues (biology)
+|   |   ├── Histopathology
+|   |   |   ├── Histopathologists
+|   |   |   ├── Cytopathology
+|   |   |   └── Staining
+|   |   ├── Microbiology
+|   |   |   ├── Microbiologists
+|   |   |   ├── Microorganisms
+|   |   |   ├── Antimicrobials
+|   |   |   ├── Applied microbiology
+|   |   |   ├── Microbiology awards
+|   |   |   ├── Bacteriology
+|   |   |   ├── Biomagnetics
+|   |   |   ├── Environmental microbiology
+|   |   |   ├── Microbiology equipment
+|   |   |   ├── Eukaryotic microbiology
+|   |   |   ├── Food microbiology
+|   |   |   ├── Geomicrobiology
+|   |   |   ├── Infectious diseases
+|   |   |   ├── Microbiology literature
+|   |   |   ├── Microbial growth and nutrition
+|   |   |   ├── Microbial population biology
+|   |   |   ├── Microbiology organizations
+|   |   |   ├── Microbiology techniques
+|   |   |   ├── Microbiology terms
+|   |   |   ├── Parasitology
+|   |   |   ├── Secretion
+|   |   |   ├── Virology
+|   |   |   └── Microbiology stubs
+|   |   ├── Microscopes
+|   |   |   └── Microscope components
+|   |   ├── Microscopic images
+|   |   |   └── Electron microscope images
+|   |   ├── Microscopists
+|   |   |   └── Antonie van Leeuwenhoek
+|   |   ├── Microscopy mountants
+|   |   ├── Optical microscopy
+|   |   |   ├── Microscopic discoveries by Antonie van Leeuwenhoek
+|   |   |   ├── Optical mineralogy
+|   |   |   └── Optical microscopy techniques
+|   |   ├── Microscopy organizations
+|   |   |   ├── International Federation of Societies for Microscopy
+|   |   |   └── Royal Microscopical Society
+|   |   ├── Scanning probe microscopy
+|   |   ├── Staining
+|   |   |   ├── Staining dyes
+|   |   |   ├── Electron microscopy stains
+|   |   |   └── Romanowsky stains
+|   |   └── Sub-micron microscopy
+|   ├── MINIX
+|   ├── Python (programming language)
+|   |   ├── Articles with example Python (programming language) code
+|   |   ├── Python (programming language) development tools
+|   |   ├── Python (programming language) implementations
+|   |   ├── Python (programming language) libraries
+|   |   |   └── Python (programming language) scientific libraries
+|   |   ├── Python (programming language) people
+|   |   ├── Python (programming language) software
+|   |   |   ├── Free software programmed in Python
+|   |   |   ├── Python (programming language) libraries
+|   |   |   ├── Python (programming language)-scriptable game engines
+|   |   |   ├── Python (programming language)-scripted video games
+|   |   |   └── Zope
+|   |   └── Python (programming language) web frameworks
+|   ├── Ship designs of the Dutch Republic
+|   |   └── Fluyts
+|   |       └── Fluyts of the French Navy
+|   └── Sports originating in the Netherlands
+├── Ecuadorian inventions
+|   └── Sports originating in Ecuador
+├── Egyptian inventions
+|   ├── Ancient Egyptian architecture
+|   |   ├── Archaeological sites in Egypt
+|   |   |   ├── Abu Rawash
+|   |   |   ├── Abusir
+|   |   |   ├── Abydos, Egypt sites
+|   |   |   ├── Aswan
+|   |   |   ├── Dahshur
+|   |   |   ├── Egyptian temples
+|   |   |   ├── Elephantine
+|   |   |   ├── Giza Plateau
+|   |   |   ├── Ancient Greek archaeological sites in Egypt
+|   |   |   ├── Karnak temple complex
+|   |   |   ├── Lisht
+|   |   |   ├── Luxor
+|   |   |   ├── Memphis, Egypt
+|   |   |   ├── Pi-Ramesses
+|   |   |   ├── Ancient Egyptian pyramids
+|   |   |   ├── Roman sites in Egypt
+|   |   |   ├── Saint Catherine's Monastery
+|   |   |   ├── Saqqara
+|   |   |   ├── Thebes, Egypt
+|   |   |   ├── Tombs of ancient Egypt
+|   |   |   ├── Wadi Tumilat
+|   |   |   └── Zawyet El Aryan
+|   |   ├── Ancient Egyptian buildings and structures
+|   |   |   ├── Buildings and structures of ancient Egypt by dynasty
+|   |   |   ├── Ancient Egyptian obelisks
+|   |   |   ├── Ancient Egyptian pyramids
+|   |   |   ├── Relocated ancient Egyptian monuments
+|   |   |   ├── Egyptian temples
+|   |   |   └── Tombs of ancient Egypt
+|   |   ├── Egyptian hieroglyphs: buildings and parts-of-buildings-etc
+|   |   └── Egyptian Revival architecture
+|   |       ├── Egyptian Revival synagogues
+|   |       ├── Egyptian-style theaters
+|   |       ├── Egyptian Revival architecture in the United Kingdom
+|   |       └── Egyptian Revival architecture in the United States
+|   ├── Ancient Egyptian technology
+|   |   ├── Ancient Egyptian architecture
+|   |   |   ├── Archaeological sites in Egypt
+|   |   |   ├── Ancient Egyptian buildings and structures
+|   |   |   ├── Egyptian hieroglyphs: buildings and parts-of-buildings-etc
+|   |   |   └── Egyptian Revival architecture
+|   |   ├── Ancient Egyptian pottery
+|   |   ├── Ancient Egyptian engineers
+|   |   ├── Ancient Egyptian obelisks
+|   |   ├── Ostracon
+|   |   ├── Ancient Egyptian pyramids
+|   |   |   ├── Pyramids of the Third Dynasty of Egypt
+|   |   |   ├── Pyramids of the Fourth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Fifth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Sixth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Eighth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Tenth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Twelfth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Thirteenth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Eighteenth Dynasty of Egypt
+|   |   |   ├── Pyramids of the Eleventh Dynasty of Egypt
+|   |   |   └── Ancient Egyptian step pyramids
+|   |   └── Ancient Egyptian ships
+|   ├── Egyptian inventors
+|   ├── Obelisks
+|   |   ├── Obelisks by country
+|   |   |   ├── Obelisks in Argentina
+|   |   |   ├── Obelisks in Australia
+|   |   |   ├── Obelisks in Canada
+|   |   |   ├── Obelisks in China
+|   |   |   ├── Obelisks in Denmark
+|   |   |   ├── Obelisks in Ethiopia
+|   |   |   ├── Obelisks in France
+|   |   |   ├── Obelisks in Germany
+|   |   |   ├── Obelisks in the Republic of Ireland
+|   |   |   ├── Obelisks in Italy
+|   |   |   ├── Obelisks in the Netherlands
+|   |   |   ├── Obelisks in Norway
+|   |   |   ├── Obelisks in Pakistan
+|   |   |   ├── Obelisks in Portugal
+|   |   |   ├── Obelisks in Romania
+|   |   |   ├── Obelisks in Russia
+|   |   |   ├── Obelisks in Singapore
+|   |   |   ├── Obelisks in South Africa
+|   |   |   ├── Obelisks in Spain
+|   |   |   ├── Obelisks in Turkey
+|   |   |   ├── Obelisks in the United Kingdom
+|   |   |   └── Obelisks in the United States
+|   |   ├── Ancient obelisks
+|   |   |   ├── Axumite obelisks
+|   |   |   └── Ancient Egyptian obelisks
+|   |   └── Lists of obelisks
+|   ├── Ancient Egyptian obelisks
+|   ├── Ostracon
+|   ├── Ancient Egyptian pyramids
+|   |   ├── Pyramids of the Third Dynasty of Egypt
+|   |   ├── Pyramids of the Fourth Dynasty of Egypt
+|   |   ├── Pyramids of the Fifth Dynasty of Egypt
+|   |   ├── Pyramids of the Sixth Dynasty of Egypt
+|   |   ├── Pyramids of the Eighth Dynasty of Egypt
+|   |   ├── Pyramids of the Tenth Dynasty of Egypt
+|   |   ├── Pyramids of the Twelfth Dynasty of Egypt
+|   |   ├── Pyramids of the Thirteenth Dynasty of Egypt
+|   |   ├── Pyramids of the Eighteenth Dynasty of Egypt
+|   |   ├── Pyramids of the Eleventh Dynasty of Egypt
+|   |   └── Ancient Egyptian step pyramids
+|   ├── Ancient Egyptian religion
+|   |   ├── Egyptian amulets
+|   |   |   └── Scarabs (artifacts)
+|   |   ├── Atenism
+|   |   ├── Ancient Egyptian funerary practices
+|   |   |   ├── Ancient Egyptian funerary texts
+|   |   |   ├── Mummies
+|   |   |   └── Theban Necropolis
+|   |   ├── Egyptian mythology
+|   |   |   ├── Minor planets named from Egyptian mythology
+|   |   |   ├── Book of the Dead
+|   |   |   ├── Egyptian deities
+|   |   |   ├── Egyptian mythology in popular culture
+|   |   |   ├── Egyptian legendary creatures
+|   |   |   ├── Locations in Egyptian mythology
+|   |   |   ├── Works based on Egyptian mythology
+|   |   |   └── Egyptian mythology stubs
+|   |   ├── Ancient Egyptian priestesses
+|   |   |   ├── God's Wives of Amun
+|   |   |   └── Priestesses of the Eighteenth Dynasty of Egypt
+|   |   ├── Ancient Egyptian priests
+|   |   |   ├── Ancient Egyptian priestesses
+|   |   |   ├── Priests of the Eighteenth Dynasty of Egypt
+|   |   |   ├── Prophets of Amun
+|   |   |   ├── High Priests of Osiris
+|   |   |   ├── High Priests of Re
+|   |   |   ├── Memphis High Priests of Ptah
+|   |   |   ├── Overseers of the priests of Khnum
+|   |   |   ├── Overseers of the priests of Satet
+|   |   |   ├── Overseers of the priests of Wepwawet
+|   |   |   └── Sem-priests
+|   |   └── Egyptian temples
+|   |       ├── Karnak temple complex
+|   |       └── Philae
+|   └── Sports originating in Egypt
+├── Emirati inventions
+|   └── Emirati inventors
+├── English inventions
+|   ├── Cast iron
+|   |   ├── Cast-iron architecture
+|   |   |   ├── Cast iron aqueducts
+|   |   |   ├── Cast-iron arch bridges
+|   |   |   ├── Cast-iron architecture in India
+|   |   |   ├── Cast-iron architecture in Spain
+|   |   |   ├── Cast-iron architecture in the United Kingdom
+|   |   |   ├── Cast-iron architecture in the United States
+|   |   |   └── Cast-iron architecture in Venezuela
+|   |   ├── Cast-iron sculptures
+|   |   ├── Coalbrookdale
+|   |   |   └── People from Coalbrookdale
+|   |   └── Ironbridge Gorge
+|   |       ├── Coalbrookdale
+|   |       ├── Ironbridge Gorge Museum Trust
+|   |       ├── People from Ironbridge
+|   |       └── River Severn
+|   ├── Newcomen engines
+|   |   └── Preserved Newcomen engines
+|   ├── English inventors
+|   |   ├── Inventors from Cornwall
+|   |   |   └── Richard Trevithick
+|   |   └── 17th-century English inventors
+|   |       └── William Petty
+|   ├── English musical instruments
+|   ├── Offender profiling
+|   |   ├── Behavioral Analysis Unit
+|   |   |   └── Fictional Behavioral Analysis Unit agents
+|   |   ├── Criminology handbooks and manuals
+|   |   ├── National Center for the Analysis of Violent Crime
+|   |   |   └── Behavioral Analysis Unit
+|   |   └── Psychopathy
+|   |       ├── Books about psychopathy
+|   |       ├── Psychopathy in fiction
+|   |       ├── People with antisocial personality disorder
+|   |       ├── People with sexual sadism disorder
+|   |       ├── Psychopathy scales
+|   |       └── Writers about psychopathy
+|   ├── Paperboard
+|   |   └── Paperboard packaging
+|   |       └── Cigarette packaging
+|   ├── Sports originating in England
+|   |   └── Tennis
+|   |       ├── Tennis by city
+|   |       ├── Tennis by continent
+|   |       ├── Tennis by country
+|   |       ├── Tennis by dependent territory
+|   |       ├── Tennis by decade
+|   |       ├── Tennis by year
+|   |       ├── Tennis-related lists
+|   |       ├── Men's tennis
+|   |       ├── Women's tennis
+|   |       ├── Tennis awards
+|   |       ├── Tennis court surfaces
+|   |       ├── Tennis culture
+|   |       ├── Tennis equipment
+|   |       ├── Forms of tennis
+|   |       ├── History of tennis
+|   |       ├── Junior tennis
+|   |       ├── Tennis logos
+|   |       ├── Tennis matches
+|   |       ├── Tennis mass media
+|   |       ├── Tennis organizations
+|   |       ├── Tennis people
+|   |       ├── Tennis records and statistics
+|   |       ├── Tennis shots
+|   |       ├── Tennis strategy
+|   |       ├── Tennis terminology
+|   |       ├── Tennis tournaments
+|   |       ├── Tennis venues
+|   |       └── Tennis stubs
+|   └── Turing machine
+├── Estonian inventions
+|   ├── Estonian inventors
+|   └── Sports originating in Estonia
+├── Finnish inventions
+|   ├── Linux
+|   |   ├── Books about Linux
+|   |   ├── Linux companies
+|   |   |   ├── Canonical (company)
+|   |   |   ├── Geeknet
+|   |   |   ├── GNOME companies
+|   |   |   ├── Linspire
+|   |   |   ├── Linux game porters
+|   |   |   └── Red Hat
+|   |   ├── Linux conferences
+|   |   ├── Linux documentation projects
+|   |   ├── Embedded Linux
+|   |   |   ├── Embedded Linux distributions
+|   |   |   ├── Linux-based devices
+|   |   |   ├── Operating systems using GPE Palmtop Environment
+|   |   |   └── Software related to embedded Linux
+|   |   ├── Fedora Project
+|   |   |   └── Fedora Project templates
+|   |   ├── Hardware in Linux
+|   |   |   └── Linux drivers
+|   |   ├── Linux kernel
+|   |   |   ├── Linux drivers
+|   |   |   ├── Linux kernel features
+|   |   |   ├── File systems supported by the Linux kernel
+|   |   |   ├── Interfaces of the Linux kernel
+|   |   |   ├── Linux kernel process schedulers
+|   |   |   ├── Linux kernel variant
+|   |   |   ├── Linux kernel-related software
+|   |   |   ├── Operating systems based on the Linux kernel
+|   |   |   ├── SCO–Linux disputes
+|   |   |   └── Third-party Linux kernel modules
+|   |   ├── Linux APIs
+|   |   |   ├── Interfaces of the Linux kernel
+|   |   |   ├── Rendering APIs available on Linux
+|   |   |   └── Video acceleration APIs available on Linux
+|   |   ├── Linux software
+|   |   |   ├── Accounting software for Linux
+|   |   |   ├── Linux administration
+|   |   |   ├── Amateur radio software for Linux
+|   |   |   ├── Android (operating system) software
+|   |   |   ├── Antivirus software for Linux
+|   |   |   ├── Linux APIs
+|   |   |   ├── Audio software for Linux
+|   |   |   ├── Backup software for Linux
+|   |   |   ├── Bada software
+|   |   |   ├── Benchmarking software for Linux
+|   |   |   ├── Business software for Linux
+|   |   |   ├── Computer-aided design software for Linux
+|   |   |   ├── Computer-aided engineering software for Linux
+|   |   |   ├── Computer-aided manufacturing software for Linux
+|   |   |   ├── Computer-assisted translation software for Linux
+|   |   |   ├── Concept- and mind-mapping software for Linux
+|   |   |   ├── Linux configuration utilities
+|   |   |   ├── Cross-platform software
+|   |   |   ├── Database-related software for Linux
+|   |   |   ├── Desktop publishing software for Linux
+|   |   |   ├── Educational software for Linux
+|   |   |   ├── Electronic design automation software for Linux
+|   |   |   ├── Software related to embedded Linux
+|   |   |   ├── Linux emulation software
+|   |   |   ├── Engineering software for Linux
+|   |   |   ├── Enterprise resource planning software for Linux
+|   |   |   ├── Finite element software for Linux
+|   |   |   ├── Game engines for Linux
+|   |   |   ├── Linux games
+|   |   |   ├── Geology software for Linux
+|   |   |   ├── Graphics-related software for Linux
+|   |   |   ├── Healthcare software for Linux
+|   |   |   ├── Linux installation software
+|   |   |   ├── Internet software for Linux
+|   |   |   ├── Java platform software
+|   |   |   ├── Linux malware
+|   |   |   ├── Linux patches
+|   |   |   ├── Linux Terminal Server Project
+|   |   |   ├── Linux-only software
+|   |   |   ├── Machine translation software for Linux
+|   |   |   ├── Mathematics software for Linux
+|   |   |   ├── Motion picture software for Linux
+|   |   |   ├── Multimedia software for Linux
+|   |   |   ├── Music software for Linux
+|   |   |   ├── Linux network-related software
+|   |   |   ├── Office suites for Linux
+|   |   |   ├── Packet analyzer software for Linux
+|   |   |   ├── Personal information manager software for Linux
+|   |   |   ├── Photo software for Linux
+|   |   |   ├── Linux programming tools
+|   |   |   ├── Proprietary software for Linux
+|   |   |   ├── Remote desktop software for Linux
+|   |   |   ├── Science software for Linux
+|   |   |   ├── Scorewriters for Linux
+|   |   |   ├── Screenshots of Linux software
+|   |   |   ├── Linux security software
+|   |   |   ├── Software that uses FLTK
+|   |   |   ├── Software that uses Qt
+|   |   |   ├── Software that uses Tk (software)
+|   |   |   ├── Software that uses wxWidgets
+|   |   |   ├── Linux text-related software
+|   |   |   ├── Touch typing tutors for Linux
+|   |   |   ├── Typography-related software for Linux
+|   |   |   ├── Utilities for Linux
+|   |   |   ├── Utility software for Linux
+|   |   |   ├── Video game development software for Linux
+|   |   |   ├── Video software for Linux
+|   |   |   └── Virtualization software for Linux
+|   |   ├── Linux templates
+|   |   ├── Linux user groups
+|   |   ├── Linux magazines
+|   |   ├── Mobile Linux
+|   |   |   ├── Android (operating system)
+|   |   |   ├── CyanogenMod
+|   |   |   ├── Firefox OS
+|   |   |   ├── Maemo
+|   |   |   ├── MeeGo
+|   |   |   └── Openmoko
+|   |   ├── Linux organizations
+|   |   |   ├── Linux Foundation
+|   |   |   └── NSLU2-Linux
+|   |   ├── Linux software projects
+|   |   ├── Linus Torvalds
+|   |   |   ├── Git (software)
+|   |   |   ├── Linux Foundation
+|   |   |   └── Linux kernel
+|   |   ├── Ubuntu
+|   |   |   ├── Canonical (company)
+|   |   |   ├── Ubuntu derivatives
+|   |   |   └── Ubuntu Touch devices
+|   |   ├── Linux websites
+|   |   |   └── Linux Foundation
+|   |   └── Linux stubs
+|   |       └── Linux distribution stubs
+|   ├── Nokia mobile phones
+|   |   ├── Microsoft Lumia
+|   |   ├── N-Gage (service) compatible devices
+|   |   ├── Nokia Android smartphones
+|   |   ├── Nokia ESeries
+|   |   ├── Nokia Nseries
+|   |   ├── Nokia phones by series
+|   |   |   └── Nokia phones 1000 series
+|   |   └── Nokia XSeries
+|   └── Sports originating in Finland
+├── French inventions
+|   ├── Guillotine
+|   |   └── People executed by guillotine
+|   |       ├── People executed by guillotine during the French Revolution
+|   |       ├── People executed by Germany by guillotine
+|   |       ├── Nazis executed by guillotine
+|   |       └── People executed by Sweden by guillotine
+|   └── Sports originating in France
+|       └── Canne de combat
+|           └── Canne de combat competitions
+├── German inventions
+|   ├── German inventors
+|   |   ├── 14th-century German inventors
+|   |   ├── 15th-century German inventors
+|   |   ├── 16th-century German inventors
+|   |   ├── 17th-century German inventors
+|   |   |   ├── Athanasius Kircher
+|   |   |   └── Gottfried Wilhelm Leibniz
+|   |   ├── 18th-century German inventors
+|   |   |   └── Gottfried Wilhelm Leibniz
+|   |   ├── 19th-century German inventors
+|   |   |   └── Werner von Siemens
+|   |   ├── 20th-century German inventors
+|   |   |   └── Wernher von Braun
+|   |   └── 21st-century German inventors
+|   ├── MPEG
+|   |   ├── Digital Video Broadcasting
+|   |   |   └── Digital Video Broadcasting software
+|   |   ├── ISDB
+|   |   |   └── ABNT standards
+|   |   ├── MP3
+|   |   |   └── Digital audio players
+|   |   ├── MPEG-2
+|   |   ├── MPEG-4
+|   |   ├── MPEG-H
+|   |   └── Portable media players
+|   |       ├── Touchscreen portable media players
+|   |       └── Windows Mobile devices
+|   ├── German inventions of the Nazi period
+|   |   ├── Torch relays
+|   |   |   ├── Asian Games torch relays
+|   |   |   ├── Olympic torch relays
+|   |   |   ├── Pan American Games torch relays
+|   |   |   └── Paralympic torch relays
+|   |   └── World War II military equipment of Germany
+|   |       ├── World War II aircraft of Germany
+|   |       ├── World War II German electronics
+|   |       ├── World War II vehicles of Germany
+|   |       ├── World War II naval ships of Germany
+|   |       └── World War II weapons of Germany
+|   ├── Skat (card game)
+|   └── Sports originating in Germany
+|       └── German martial arts
+├── Greek inventions
+|   ├── Greek inventors
+|   |   └── Ancient Greek inventors
+|   |       └── Archimedes
+|   └── Hellenic scripts
+|       ├── Greek alphabet
+|       |   ├── Armenian alphabet
+|       |   ├── Cyrillic script
+|       |   ├── Greek-script diacritics
+|       |   ├── Elder Futhark
+|       |   ├── Gothic writing
+|       |   ├── Greek letters
+|       |   └── Latin alphabets
+|       └── Greek typefaces
+├── Hong Kong inventions
+|   ├── Dim sum
+|   └── Hong Kong inventors
+├── Hungarian inventions
+|   ├── Holography
+|   |   ├── Holonomic brain theory
+|   |   ├── Holographic data storage
+|   |   ├── Holography in fiction
+|   |   |   ├── Dead Space (franchise) games
+|   |   |   ├── Fictional illusionists
+|   |   |   ├── Holography in films
+|   |   |   └── Holography in television
+|   |   └── Holography industry
+|   └── L-systems
+├── Indian inventions
+|   ├── Ancient Indian medicine
+|   |   └── Ancient Indian physicians
+|   ├── Indian games
+|   |   ├── Indian board games
+|   |   |   ├── Carrom
+|   |   |   ├── Games related to chaturanga
+|   |   |   └── Indian war games
+|   |   ├── Indian card games
+|   |   ├── Indian role-playing games
+|   |   ├── Video games developed in India
+|   |   └── Indian word games
+|   ├── Indian inventors
+|   |   ├── Indian inventors by century
+|   |   |   ├── 16th-century Indian inventors
+|   |   |   ├── 18th-century Indian inventors
+|   |   |   ├── 19th-century Indian inventors
+|   |   |   ├── 20th-century Indian inventors
+|   |   |   └── 21st-century Indian inventors
+|   |   └── Indian patent holders
+|   ├── Inventions of the Indus Valley civilisation
+|   ├── Indian musical instruments
+|   |   ├── Carnatic music instruments
+|   |   ├── Folk instruments of Punjab
+|   |   ├── Hindustani musical instruments
+|   |   |   └── Sitars
+|   |   ├── Musical instruments of Assam
+|   |   ├── Precolonial Indian musical instruments
+|   |   └── Traditional Goan musical instruments
+|   └── Sports originating in India
+├── Indonesian inventions
+|   └── Sports originating in Indonesia
+├── Inventions of Georgia (country)
+|   └── Sports originating in Georgia (country)
+├── Iranian inventions
+|   ├── Astronomical observatories in Iran
+|   ├── Architecture of Iran
+|   |   ├── Archaeological sites in Iran
+|   |   |   ├── Ancient Iranian cities
+|   |   |   ├── Archaeology of the Achaemenid Empire
+|   |   |   ├── Cheshmeh-Ali complex
+|   |   |   ├── Elamite cities
+|   |   |   ├── Istakhr
+|   |   |   ├── Parthian cities
+|   |   |   └── Teppe Hasanlu
+|   |   ├── Iranian architects
+|   |   |   ├── Iranian women architects
+|   |   |   ├── 19th-century Iranian architects
+|   |   |   └── 20th-century Iranian architects
+|   |   ├── Bazaars in Iran
+|   |   ├── Bridges in Iran
+|   |   |   ├── Bridges in Iran by traffic
+|   |   |   ├── Cable-stayed bridges in Iran
+|   |   |   ├── Bridges in Isfahan
+|   |   |   ├── Bridges across the River Karoun
+|   |   |   ├── Seljuk bridges in Iran
+|   |   |   └── Suspension bridges in Iran
+|   |   ├── Buildings and structures in Ardabil
+|   |   ├── Buildings and structures in Iran
+|   |   |   ├── Buildings and structures in Iran by city
+|   |   |   ├── Buildings and structures in Iran by condition
+|   |   |   ├── Buildings and structures in Iran by province
+|   |   |   ├── Buildings and structures in Iran by type
+|   |   |   ├── Attacks on buildings and structures in Iran
+|   |   |   ├── Buildings and structures in Kurdistan
+|   |   |   ├── Lists of buildings and structures in Iran
+|   |   |   ├── Pyramids in Iran
+|   |   |   ├── Shopping malls in Iran
+|   |   |   ├── Towers in Iran
+|   |   |   └── Iranian building and structure stubs
+|   |   ├── Caravanserais in Iran
+|   |   ├── Persian-Caucasian architecture
+|   |   ├── Chahartaqis
+|   |   ├── Dams in Iran
+|   |   |   ├── Dams of Iran by province
+|   |   |   ├── Hydroelectric power stations in Iran
+|   |   |   ├── Dams on the Karun River
+|   |   |   └── Iranian dam stubs
+|   |   ├── Fire temples in Iran
+|   |   ├── Iranian architectural historians
+|   |   ├── Houses in Iran
+|   |   |   ├── Historic house museums in Iran
+|   |   |   ├── Official residences in Iran
+|   |   |   └── Palaces in Iran
+|   |   ├── Iranian architecture by period
+|   |   |   ├── Achaemenid architecture
+|   |   |   ├── Bavandid architecture
+|   |   |   ├── Islamic Republic of Iran era architecture
+|   |   |   ├── Medes architecture
+|   |   |   ├── Parthian architecture
+|   |   |   ├── Qajar architecture
+|   |   |   ├── Safavid architecture
+|   |   |   └── Sasanian architecture
+|   |   ├── Mausoleums in Iran
+|   |   |   ├── Mausoleums in Isfahan
+|   |   |   └── Mausoleums in Kermanshah Province
+|   |   ├── Minarets in Iran
+|   |   ├── Mosques in Iran
+|   |   |   ├── Mosques in Iran by city
+|   |   |   ├── Mosques in Iran by province
+|   |   |   ├── Shia mosques in Iran
+|   |   |   ├── Imam Reza shrine
+|   |   |   └── Iranian mosque stubs
+|   |   ├── Palaces in Iran
+|   |   |   ├── Mansions in Iran
+|   |   |   └── Palaces in Tehran
+|   |   ├── Persian gardens
+|   |   |   ├── Persian gardens by country
+|   |   |   └── Mughal gardens
+|   |   ├── Religious buildings and structures in Iran
+|   |   |   ├── Churches in Iran by city
+|   |   |   ├── Lists of religious buildings and structures in Iran
+|   |   |   ├── Christian monasteries in Iran
+|   |   |   ├── Churches in Iran
+|   |   |   ├── Fire temples in Iran
+|   |   |   ├── Gurdwaras in Iran
+|   |   |   ├── Hindu temples in Iran
+|   |   |   ├── Mosques in Iran
+|   |   |   ├── Religious buildings and structures in Tehran
+|   |   |   ├── Shrines in Iran
+|   |   |   └── Synagogues in Iran
+|   |   ├── Schools in Iran
+|   |   |   ├── Schools in Iran by city
+|   |   |   ├── Alumni by secondary school in Iran
+|   |   |   ├── Boys' schools in Iran
+|   |   |   ├── Defunct schools in Iran
+|   |   |   ├── Girls' schools in Iran
+|   |   |   ├── High schools in Iran
+|   |   |   ├── International schools in Iran
+|   |   |   ├── National Organization for Development of Exceptional Talents
+|   |   |   └── Iranian school stubs
+|   |   ├── Seljuk architecture
+|   |   |   ├── Seljuk bridges
+|   |   |   ├── Buildings and structures of the Sultanate of Rum
+|   |   |   ├── Seljuk mosques in Turkey
+|   |   |   └── Seljuk castles
+|   |   ├── Takyehs
+|   |   └── World Heritage Sites in Iran
+|   |       ├── Memory of the World Register in Iran
+|   |       ├── Persepolis
+|   |       └── Susa
+|   ├── Iranian art
+|   |   ├── Persian art
+|   |   |   ├── Architecture of Iran
+|   |   |   ├── Behistun Inscription
+|   |   |   ├── Persian handicrafts
+|   |   |   ├── Iranian pottery
+|   |   |   ├── Manuscripts of Shahnameh
+|   |   |   ├── Mosaic
+|   |   |   ├── Parthian art
+|   |   |   ├── Persian rugs and carpets
+|   |   |   ├── Sasanian art
+|   |   |   └── Textile arts of Persia
+|   |   ├── Iranian artists
+|   |   |   ├── Artists from Isfahan
+|   |   |   ├── Iranian male artists
+|   |   |   ├── Iranian women artists
+|   |   |   ├── 18th-century Iranian artists
+|   |   |   ├── 19th-century Iranian artists
+|   |   |   ├── 20th-century Iranian artists
+|   |   |   ├── 21st-century Iranian artists
+|   |   |   ├── Iranian actors
+|   |   |   ├── Iranian animators
+|   |   |   ├── Iranian art writers
+|   |   |   ├── Iranian calligraphers
+|   |   |   ├── Iranian caricaturists
+|   |   |   ├── Iranian cartoonists
+|   |   |   ├── Iranian cinematographers
+|   |   |   ├── Iranian comedians
+|   |   |   ├── Iranian comics artists
+|   |   |   ├── Iranian contemporary artists
+|   |   |   ├── Iranian dancers
+|   |   |   ├── Iranian designers
+|   |   |   ├── Iranian directors
+|   |   |   ├── Iranian graffiti artists
+|   |   |   ├── Iranian installation artists
+|   |   |   ├── Iranian illustrators
+|   |   |   ├── LGBT artists from Iran
+|   |   |   ├── Iranian painters
+|   |   |   ├── Iranian photographers
+|   |   |   ├── Iranian poster artists
+|   |   |   ├── Iranian potters
+|   |   |   ├── Iranian printmakers
+|   |   |   ├── Iranian puppeteers
+|   |   |   ├── Iranian sculptors
+|   |   |   ├── Iranian surrealist artists
+|   |   |   ├── Iranian textile artists
+|   |   |   ├── Iranian woodcarvers
+|   |   |   └── Iranian artist stubs
+|   |   ├── Iranian art collectors
+|   |   ├── Iranian art critics
+|   |   ├── Iranian art dealers
+|   |   ├── Iranian art historians
+|   |   ├── Iranian contemporary art
+|   |   |   ├── Iranian contemporary artists
+|   |   |   └── Contemporary art galleries in Iran
+|   |   ├── Art museums and galleries in Iran
+|   |   |   ├── Contemporary art galleries in Iran
+|   |   |   └── Photography museums and galleries in Iran
+|   |   ├── Parthian art
+|   |   |   └── Parthian rock reliefs
+|   |   ├── Persian calligraphy
+|   |   |   └── Iranian calligraphers
+|   |   ├── Photography in Iran
+|   |   |   ├── Iranian photographers
+|   |   |   ├── Photography companies of Iran
+|   |   |   └── Photography museums and galleries in Iran
+|   |   ├── Iranian pottery
+|   |   |   └── Iranian potters
+|   |   ├── Sculptures in Iran
+|   |   |   ├── Statues in Iran
+|   |   |   ├── Bronze sculptures in Iran
+|   |   |   ├── Outdoor sculptures in Iran
+|   |   |   └── Rock reliefs in Iran
+|   |   └── Video games developed in Iran
+|   ├── Iranian clothing
+|   |   ├── Azerbaijani clothing
+|   |   |   └── Textile arts of Azerbaijan
+|   |   ├── Persian embroidery
+|   |   ├── Mandaean clothing
+|   |   ├── Textile arts of Persia
+|   |   ├── Persian handicrafts
+|   |   |   └── Persian embroidery
+|   |   └── Textile arts of Iran
+|   |       └── Iranian textile artists
+|   ├── Iranian cuisine
+|   |   ├── Assyrian cuisine
+|   |   ├── Azerbaijani cuisine
+|   |   |   ├── Azerbaijani desserts
+|   |   |   ├── Azerbaijani drinks
+|   |   |   ├── Azerbaijani stews
+|   |   |   ├── Azerbaijani breads
+|   |   |   ├── Azerbaijani soups
+|   |   |   └── Azerbaijani cuisine stubs
+|   |   ├── Iranian drinks
+|   |   ├── Iranian breads
+|   |   ├── Iranian chefs
+|   |   ├── Iranian desserts
+|   |   |   ├── Iranian confectionery
+|   |   |   └── Iranian pastries
+|   |   ├── Food brands of Iran
+|   |   ├── Iranian confectionery
+|   |   ├── Iranian pastries
+|   |   ├── Iranian stews
+|   |   ├── Kurdish cuisine
+|   |   |   └── Turkish cuisine
+|   |   ├── Persian Jewish cuisine
+|   |   ├── Restaurants in Iran
+|   |   |   └── Restaurants in Tehran
+|   |   ├── Iranian soups
+|   |   ├── Tabriz cuisine
+|   |   ├── Talysh cuisine
+|   |   └── Vegetarian dishes of Iran
+|   ├── Iranian dances
+|   |   ├── Assyrian dances
+|   |   ├── Azerbaijani dances
+|   |   └── Kurdish dance
+|   ├── Iranian desserts
+|   |   ├── Iranian confectionery
+|   |   └── Iranian pastries
+|   ├── Iranian games
+|   ├── Iranian inventors
+|   |   ├── 20th-century Iranian inventors
+|   |   └── 21st-century Iranian inventors
+|   ├── Iranian philosophy
+|   |   ├── Iranian philosophers
+|   |   |   ├── Iranian philosophers by century
+|   |   |   ├── Philosophers from Nishapur
+|   |   |   ├── Ancient Iranian philosophers
+|   |   |   ├── Iranian ethicists
+|   |   |   ├── Iranian political philosophers
+|   |   |   ├── Medieval Iranian philosophers
+|   |   |   └── Iranian women philosophers
+|   |   ├── Persian philosophy
+|   |   |   ├── Persian alchemists
+|   |   |   ├── Sufism
+|   |   |   └── Zoroastrian philosophy
+|   |   └── Philosophy in Iran
+|   |       ├── Iranian philosophers
+|   |       └── Iranian Science and Culture Hall of Fame recipients in Philosophy
+|   ├── Mathnawi
+|   |   └── Mathnawis
+|   ├── Iranian musical instruments
+|   |   ├── Afghan musical instruments
+|   |   |   └── Baloch musical instruments
+|   |   ├── Azerbaijani musical instruments
+|   |   ├── Baloch musical instruments
+|   |   ├── Kurdish musical instruments
+|   |   ├── Persian musical instruments
+|   |   ├── Tajik musical instruments
+|   |   └── Talysh musical instruments
+|   ├── Persian classical music
+|   |   ├── Persian classical music groups
+|   |   └── Persian classical musicians
+|   ├── Persian literature
+|   |   ├── Persian literature by period
+|   |   |   ├── Ancient Persian literature
+|   |   |   ├── Medieval Persian literature
+|   |   |   └── Middle Persian literature
+|   |   ├── Arabic and Central Asian poetics
+|   |   |   ├── Arabic poetry
+|   |   |   ├── Ghazal
+|   |   |   └── Mathnawi
+|   |   ├── Bibliographies of Persian writers
+|   |   ├── Persian fairy tales
+|   |   ├── Monuments and memorials to Nizami Ganjavi
+|   |   ├── One Thousand and One Nights
+|   |   |   ├── One Thousand and One Nights characters
+|   |   |   ├── Translators of One Thousand and One Nights
+|   |   |   └── Works based on One Thousand and One Nights
+|   |   ├── People related to Persian literature
+|   |   |   └── Researchers of Persian literature
+|   |   ├── Persian literature by genre
+|   |   |   ├── Epic poems in Persian
+|   |   |   ├── Iranian children's literature
+|   |   |   ├── Mystical books
+|   |   |   └── Persian poetry
+|   |   ├── Persian poetry
+|   |   |   ├── Persian poetic forms
+|   |   |   └── Persian poems
+|   |   └── Theatre in Iran
+|   |       ├── Iranian theatre people
+|   |       ├── Theatre festivals in Iran
+|   |       ├── Puppetry in Iran
+|   |       └── Theatres in Iran
+|   ├── Persian rugs and carpets
+|   |   └── Azerbaijani rugs and carpets
+|   ├── Science and technology in Iran
+|   |   ├── Astronomy in Iran
+|   |   |   ├── Iranian astronomers
+|   |   |   └── Astronomical observatories in Iran
+|   |   ├── Biology in Iran
+|   |   |   └── Medicine in Iran
+|   |   ├── Biotechnology in Iran
+|   |   |   └── Iranian biotechnologists
+|   |   ├── Communications in Iran
+|   |   |   ├── Iran communications-related lists
+|   |   |   ├── Mass media in Iran
+|   |   |   ├── Philately of Iran
+|   |   |   ├── Postal system of Iran
+|   |   |   └── Telecommunications in Iran
+|   |   ├── Iranian computer programmers
+|   |   ├── Iranian computer scientists
+|   |   |   ├── Iranian hackers
+|   |   |   └── Iranian software developers
+|   |   ├── Databases in Iran
+|   |   ├── Iranian engineers
+|   |   |   ├── Iranian women engineers
+|   |   |   ├── 20th-century Iranian engineers
+|   |   |   ├── 21st-century Iranian engineers
+|   |   |   ├── Iranian aerospace engineers
+|   |   |   ├── Iranian bioengineers
+|   |   |   ├── Iranian chemical engineers
+|   |   |   ├── Iranian civil engineers
+|   |   |   ├── Iranian electrical engineers
+|   |   |   ├── Iranian industrial engineers
+|   |   |   ├── Iranian mechanical engineers
+|   |   |   └── Iranian nanotechnologists
+|   |   ├── Science events in Iran
+|   |   ├── Farabi International Award
+|   |   |   └── Farabi International Award recipients
+|   |   ├── Information technology organisations based in Iran
+|   |   ├── Iranian inventions
+|   |   |   ├── Astronomical observatories in Iran
+|   |   |   ├── Architecture of Iran
+|   |   |   ├── Iranian art
+|   |   |   ├── Iranian clothing
+|   |   |   ├── Iranian cuisine
+|   |   |   ├── Iranian dances
+|   |   |   ├── Iranian desserts
+|   |   |   ├── Iranian games
+|   |   |   ├── Iranian inventors
+|   |   |   ├── Iranian philosophy
+|   |   |   ├── Mathnawi
+|   |   |   ├── Iranian musical instruments
+|   |   |   ├── Persian classical music
+|   |   |   ├── Persian literature
+|   |   |   ├── Persian rugs and carpets
+|   |   |   ├── Science and technology in Iran
+|   |   |   └── Sports originating in Iran
+|   |   ├── Iranian inventors
+|   |   |   ├── 20th-century Iranian inventors
+|   |   |   └── 21st-century Iranian inventors
+|   |   ├── Iran University of Science and Technology
+|   |   |   ├── Iran University of Science and Technology alumni
+|   |   |   └── Iran University of Science and Technology faculty
+|   |   ├── Khwarizmi International Award
+|   |   ├── Military equipment of Iran
+|   |   |   ├── Iranian military aircraft
+|   |   |   ├── Armoured fighting vehicles of Iran
+|   |   |   ├── Guided missiles of Iran
+|   |   |   ├── Naval ships of Iran
+|   |   |   ├── Post–Cold War military equipment of Iran
+|   |   |   ├── Military radars of Iran
+|   |   |   └── Weapons of Iran
+|   |   ├── Ministers of science of Iran
+|   |   ├── Iranian Nobel laureates
+|   |   ├── Nuclear energy in Iran
+|   |   |   ├── Nuclear technology in Iran
+|   |   |   └── Nuclear power in Iran
+|   |   ├── Scientific organisations based in Iran
+|   |   |   ├── Academy of Sciences of Iran members
+|   |   |   ├── Agricultural organisations based in Iran
+|   |   |   └── Research institutes in Iran
+|   |   ├── Paleontology in Iran
+|   |   |   ├── Iranian paleontologists
+|   |   |   └── Fossils of Iran
+|   |   ├── Persian alchemists
+|   |   ├── Iranian philosophy
+|   |   |   ├── Iranian philosophers
+|   |   |   ├── Persian philosophy
+|   |   |   └── Philosophy in Iran
+|   |   ├── Research in Iran
+|   |   |   ├── Animal testing in Iran
+|   |   |   └── Research institutes in Iran
+|   |   ├── Research institutes in Iran
+|   |   |   ├── Imam Khomeini's Educational and Research Institute
+|   |   |   ├── Institute for Humanities and Cultural Studies
+|   |   |   ├── Medical research institutes in Iran
+|   |   |   ├── Neuroscience research centers in Iran
+|   |   |   └── Research Institute for Islamic Culture and Thought
+|   |   ├── Robotics in Iran
+|   |   |   └── Robots of Iran
+|   |   ├── Iranian scientists
+|   |   |   ├── Scientists from Isfahan
+|   |   |   ├── Scientists from Tabriz
+|   |   |   ├── Scientists from Tehran
+|   |   |   ├── Iranian women scientists
+|   |   |   ├── 10th-century Iranian scientists
+|   |   |   ├── 12th-century Iranian scientists
+|   |   |   ├── 13th-century Iranian scientists
+|   |   |   ├── 14th-century Iranian scientists
+|   |   |   ├── 15th-century Iranian scientists
+|   |   |   ├── 16th-century Iranian scientists
+|   |   |   ├── 17th-century Iranian scientists
+|   |   |   ├── Iranian archaeologists
+|   |   |   ├── Iranian astronomers
+|   |   |   ├── Iranian biologists
+|   |   |   ├── Iranian chemists
+|   |   |   ├── Iranian computer scientists
+|   |   |   ├── Iranian engineers
+|   |   |   ├── Iranian geneticists
+|   |   |   ├── Iranian geologists
+|   |   |   ├── Linguists from Iran
+|   |   |   ├── Iranian materials scientists
+|   |   |   ├── Iranian mathematicians
+|   |   |   ├── Iranian medical researchers
+|   |   |   ├── Iranian meteorologists
+|   |   |   ├── Pharmacologists of medieval Iran
+|   |   |   ├── Iranian physicians
+|   |   |   ├── Iranian physicists
+|   |   |   ├── Iranian roboticists
+|   |   |   ├── Iranian social scientists
+|   |   |   ├── Administrators of the Iranian Space Agency
+|   |   |   └── Iranian scientist stubs
+|   |   ├── Sharif University of Technology
+|   |   |   ├── Sharif University of Technology alumni
+|   |   |   ├── Chancellors of the Sharif University of Technology
+|   |   |   └── Sharif University of Technology faculty
+|   |   ├── Space program of Iran
+|   |   |   ├── Administrators of the Iranian Space Agency
+|   |   |   ├── Iranian astronauts
+|   |   |   ├── Satellites of Iran
+|   |   |   └── Space launch vehicles of Iran
+|   |   └── Iranian technology writers
+|   └── Sports originating in Iran
+├── Iraqi inventions
+├── Irish inventions
+|   ├── Irish inventors
+|   |   └── Inventors from Northern Ireland
+|   ├── Irish musical instruments
+|   |   ├── Accordion
+|   |   |   ├── Accordionists
+|   |   |   ├── Compositions for accordion
+|   |   |   └── Concertina
+|   |   ├── Guitars
+|   |   |   ├── Guitar makers
+|   |   |   ├── Acoustic guitars
+|   |   |   ├── Bass guitars
+|   |   |   ├── Classical guitar
+|   |   |   ├── Guitar competitions
+|   |   |   ├── Electric guitars
+|   |   |   ├── Guitar literature
+|   |   |   ├── Guitar magazines
+|   |   |   ├── Guitar parts and accessories
+|   |   |   ├── Guitar performance techniques
+|   |   |   ├── Guitar synthesizers
+|   |   |   ├── Guitar video games
+|   |   |   ├── Guitarists
+|   |   |   ├── Individual guitars
+|   |   |   ├── Jazz guitar
+|   |   |   ├── Semi-acoustic guitars
+|   |   |   ├── Guitar-related software
+|   |   |   ├── Songs about guitars
+|   |   |   ├── Steel guitar
+|   |   |   ├── Guitar tunings
+|   |   |   ├── Guitar websites
+|   |   |   ├── Works about guitars and guitarists
+|   |   |   └── Guitar stubs
+|   |   └── Melodeon
+|   |       └── Melodeonists
+|   ├── Sports originating in Ireland
+|   └── Whisky
+|       ├── Whisky by country
+|       |   ├── Australian whisky
+|       |   ├── Canadian whisky
+|       |   ├── Danish whisky
+|       |   ├── French whisky
+|       |   ├── German whisky
+|       |   ├── Indian whisky
+|       |   ├── Irish whiskey
+|       |   ├── Japanese whisky
+|       |   ├── Mexican whisky
+|       |   ├── Scotch whisky
+|       |   ├── South African whisky
+|       |   ├── Taiwanese whisky
+|       |   ├── Whiskies of the United States
+|       |   └── Welsh whisky
+|       ├── Cask strength
+|       ├── Cocktails with whisky
+|       |   ├── Cocktails with bourbon whiskey
+|       |   ├── Cocktails with rye whisky
+|       |   └── Cocktails with Scotch whisky
+|       ├── Malt whisky
+|       ├── Rye whiskey
+|       |   ├── Canadian whisky
+|       |   └── Cocktails with rye whisky
+|       ├── Sazerac Company brands
+|       ├── Wheat whisky
+|       ├── Whiskies of Asia
+|       |   ├── Indian whisky
+|       |   ├── Japanese whisky
+|       |   └── Taiwanese whisky
+|       ├── Whisky blenders
+|       ├── Whisky distillers
+|       ├── Whisky trails
+|       ├── Whisky writers
+|       └── Whisky stubs
+├── Israeli inventions
+|   └── Sports originating in Israel
+|       └── Israeli martial arts
+|           └── Krav Maga
+├── Italian inventions
+|   ├── Criminal psychology
+|   |   ├── Criminal psychologists
+|   |   └── Offender profiling
+|   |       ├── Behavioral Analysis Unit
+|   |       ├── Criminology handbooks and manuals
+|   |       ├── National Center for the Analysis of Violent Crime
+|   |       └── Psychopathy
+|   ├── Induction motors
+|   |   └── Linear induction motors
+|   |       └── Hyperloop
+|   ├── MPEG
+|   |   ├── Digital Video Broadcasting
+|   |   |   └── Digital Video Broadcasting software
+|   |   ├── ISDB
+|   |   |   └── ABNT standards
+|   |   ├── MP3
+|   |   |   └── Digital audio players
+|   |   ├── MPEG-2
+|   |   ├── MPEG-4
+|   |   ├── MPEG-H
+|   |   └── Portable media players
+|   |       ├── Touchscreen portable media players
+|   |       └── Windows Mobile devices
+|   └── Sports originating in Italy
+├── Japanese inventions
+|   ├── 3D printing
+|   |   ├── 3D printing specialists
+|   |   ├── 3D printer companies
+|   |   ├── 3D computer graphics
+|   |   |   ├── 3D graphic artifacts
+|   |   |   ├── 3D graphics APIs
+|   |   |   ├── 3D graphics art
+|   |   |   ├── 3D graphics file formats
+|   |   |   ├── 3D graphics software
+|   |   |   ├── 3D rendering
+|   |   |   ├── DirectX
+|   |   |   ├── Graphical projections
+|   |   |   ├── 3D graphics models
+|   |   |   ├── OpenGL
+|   |   |   ├── Ray tracing (graphics)
+|   |   |   ├── Rendering APIs available on Linux
+|   |   |   ├── Shading
+|   |   |   ├── Texture compression
+|   |   |   ├── Texture filtering
+|   |   |   └── Texture mapping
+|   |   ├── 3D printed objects
+|   |   |   ├── 3D printed firearms
+|   |   |   └── 3D graphics models
+|   |   ├── 3D printers
+|   |   ├── 3D printing processes
+|   |   |   └── Fused filament fabrication
+|   |   ├── 3D publishing
+|   |   |   └── 3D printing websites
+|   |   └── RepRap project
+|   ├── Anime and manga
+|   |   ├── Anime
+|   |   |   ├── Anime series
+|   |   |   ├── Anime by medium
+|   |   |   ├── Anime by source
+|   |   |   ├── Anime by studio
+|   |   |   ├── Anime debuts by date
+|   |   |   ├── Anime and manga redirects
+|   |   |   ├── Anime episode redirects to lists
+|   |   |   ├── Anime in India
+|   |   |   ├── Anime with original screenplays
+|   |   |   ├── Books about anime
+|   |   |   ├── Doujin anime
+|   |   |   ├── Anime industry
+|   |   |   ├── Anime-influenced animation
+|   |   |   ├── Anime spin-offs
+|   |   |   └── Years in anime
+|   |   ├── Manga
+|   |   |   ├── Set indices on manga
+|   |   |   ├── Manga debuts by date
+|   |   |   ├── Manga by publisher
+|   |   |   ├── Manga by source
+|   |   |   ├── Anime and manga redirects
+|   |   |   ├── Manga anthologies
+|   |   |   ├── Manga awards
+|   |   |   ├── Books about manga
+|   |   |   ├── Doujinshi
+|   |   |   ├── Manga adapted into films
+|   |   |   ├── Manga industry
+|   |   |   ├── One-shot manga
+|   |   |   ├── Original English-language manga
+|   |   |   ├── Osamu Tezuka manga
+|   |   |   ├── Manga series
+|   |   |   ├── Manga adapted into television series
+|   |   |   ├── Works based on manga
+|   |   |   ├── Yonkoma
+|   |   |   └── Manga stubs
+|   |   ├── Anime and manga franchises
+|   |   |   ├── Shueisha franchises
+|   |   |   ├── Absolute Boyfriend
+|   |   |   ├── Appleseed (media franchise)
+|   |   |   ├── Astro Boy
+|   |   |   ├── Attack on Titan
+|   |   |   ├── Battle Angel
+|   |   |   ├── Berserk (manga)
+|   |   |   ├── Bleach (manga)
+|   |   |   ├── Cardfight!! Vanguard
+|   |   |   ├── Cat's Eye (manga)
+|   |   |   ├── City Hunter
+|   |   |   ├── Cowboy Bebop
+|   |   |   ├── Crayon Shin-chan
+|   |   |   ├── Cyborg 009
+|   |   |   ├── Death Note
+|   |   |   ├── Demon Slayer: Kimetsu no Yaiba
+|   |   |   ├── Devilman
+|   |   |   ├── Digimon
+|   |   |   ├── Dirty Pair
+|   |   |   ├── Doraemon
+|   |   |   ├── Dragon Ball
+|   |   |   ├── Dragon Zakura
+|   |   |   ├── Excel Saga
+|   |   |   ├── Fist of the North Star
+|   |   |   ├── Fruits Basket
+|   |   |   ├── Getter Robo
+|   |   |   ├── Golgo 13
+|   |   |   ├── Gundam
+|   |   |   ├── Guyver (franchise)
+|   |   |   ├── Hamtaro
+|   |   |   ├── Hellsing
+|   |   |   ├── Jin (manga)
+|   |   |   ├── JoJo's Bizarre Adventure
+|   |   |   ├── Kerberos saga
+|   |   |   ├── Love Hina
+|   |   |   ├── Love Live!
+|   |   |   ├── Magic Knight Rayearth
+|   |   |   ├── My Hero Academia
+|   |   |   ├── My-HiME Project
+|   |   |   ├── Naruto
+|   |   |   ├── Nausicaä of the Valley of the Wind
+|   |   |   ├── Neon Genesis Evangelion
+|   |   |   ├── One Piece
+|   |   |   ├── One-Punch Man
+|   |   |   ├── Ouran High School Host Club
+|   |   |   ├── Pokémon
+|   |   |   ├── Puella Magi Madoka Magica
+|   |   |   ├── Re:Zero
+|   |   |   ├── Shugo Chara!
+|   |   |   ├── Tetsujin 28-go
+|   |   |   ├── Tokyo Ghoul
+|   |   |   ├── The World God Only Knows
+|   |   |   └── Yu-Gi-Oh!
+|   |   ├── Anime and manga genres
+|   |   |   ├── Anime and manga by genre
+|   |   |   ├── Isekai
+|   |   |   └── Lolicon
+|   |   ├── Anime and manga by demographic
+|   |   |   ├── Japanese manga magazines by demographic
+|   |   |   ├── Children's manga
+|   |   |   ├── Gekiga
+|   |   |   ├── Josei manga
+|   |   |   ├── Seinen manga
+|   |   |   ├── Shōjo manga
+|   |   |   └── Shōnen manga
+|   |   ├── Anime and manga by genre
+|   |   |   ├── Action anime and manga
+|   |   |   ├── Adventure anime and manga
+|   |   |   ├── Autobiographical anime and manga
+|   |   |   ├── Comedy anime and manga
+|   |   |   ├── Coming-of-age anime and manga
+|   |   |   ├── Crossover anime and manga
+|   |   |   ├── Drama anime and manga
+|   |   |   ├── Ecchi anime and manga
+|   |   |   ├── Epic anime and manga
+|   |   |   ├── Existentialist anime and manga
+|   |   |   ├── Girls with guns anime and manga
+|   |   |   ├── Harem anime and manga
+|   |   |   ├── Hentai anime and manga
+|   |   |   ├── Historical anime and manga
+|   |   |   ├── Magical girl anime and manga
+|   |   |   ├── Martial arts anime and manga
+|   |   |   ├── Mecha anime and manga
+|   |   |   ├── Mystery anime and manga
+|   |   |   ├── Philosophical anime and manga
+|   |   |   ├── Psychological anime and manga
+|   |   |   ├── Romance anime and manga
+|   |   |   ├── Sentai anime and manga
+|   |   |   ├── Slice of life anime and manga
+|   |   |   ├── Speculative fiction anime and manga
+|   |   |   ├── Sports anime and manga
+|   |   |   ├── Survival anime and manga
+|   |   |   ├── Suspense anime and manga
+|   |   |   ├── Sword and sorcery anime and manga
+|   |   |   ├── Thriller anime and manga
+|   |   |   ├── Western (genre) anime and manga
+|   |   |   ├── Yaoi anime and manga
+|   |   |   └── Yuri (genre) anime and manga
+|   |   ├── Anime and manga by source
+|   |   |   ├── Anime by source
+|   |   |   ├── Manga by source
+|   |   |   ├── Anime and manga based on comics
+|   |   |   ├── Anime and manga based on novels
+|   |   |   └── Anime and manga based on video games
+|   |   ├── Anime and manga by topic
+|   |   |   ├── Agriculture and farming in anime and manga
+|   |   |   ├── Animation making in anime and manga
+|   |   |   ├── Anime and manga set in Hokkaido
+|   |   |   ├── Art in anime and manga
+|   |   |   ├── Business in anime and manga
+|   |   |   ├── Camping in anime and manga
+|   |   |   ├── Card games in anime and manga
+|   |   |   ├── Christmas in anime and manga
+|   |   |   ├── Cooking in anime and manga
+|   |   |   ├── Crime in anime and manga
+|   |   |   ├── Cross-dressing in anime and manga
+|   |   |   ├── Crossover anime and manga
+|   |   |   ├── Cyborgs in anime and manga
+|   |   |   ├── Dance in anime and manga
+|   |   |   ├── Demons in anime and manga
+|   |   |   ├── Dinosaurs in anime and manga
+|   |   |   ├── Ecchi anime and manga
+|   |   |   ├── Espionage in anime and manga
+|   |   |   ├── Exorcism in anime and manga
+|   |   |   ├── Extraterrestrials in anime and manga
+|   |   |   ├── Anime and manga based on fairy tales
+|   |   |   ├── Feminism in anime and manga
+|   |   |   ├── Gambling in anime and manga
+|   |   |   ├── Genies in anime and manga
+|   |   |   ├── Japanese idols in anime and manga
+|   |   |   ├── LGBT in anime and manga
+|   |   |   ├── Manga creation in anime and manga
+|   |   |   ├── Marriage in anime and manga
+|   |   |   ├── Music in anime and manga
+|   |   |   ├── Mythology in anime and manga
+|   |   |   ├── Ninja in anime and manga
+|   |   |   ├── Nuclear energy issues in anime and manga
+|   |   |   ├── Organized crime in anime and manga
+|   |   |   ├── Anime and manga about parallel universes
+|   |   |   ├── Pirates in anime and manga
+|   |   |   ├── Police in anime and manga
+|   |   |   ├── Politics in anime and manga
+|   |   |   ├── Prisons in anime and manga
+|   |   |   ├── Revenge in anime and manga
+|   |   |   ├── Samurai in anime and manga
+|   |   |   ├── School life in anime and manga
+|   |   |   ├── Sexuality in anime and manga
+|   |   |   ├── Sports anime and manga
+|   |   |   ├── Superheroes in anime and manga
+|   |   |   ├── Theatre in anime and manga
+|   |   |   ├── Transgender in anime and manga
+|   |   |   ├── Transhumanism in anime and manga
+|   |   |   ├── Vampires in anime and manga
+|   |   |   ├── War in anime and manga
+|   |   |   ├── Anime and manga about werewolves
+|   |   |   ├── Witchcraft in anime and manga
+|   |   |   ├── Yōkai in anime and manga
+|   |   |   └── Zombies in anime and manga
+|   |   ├── Anime and manga characters
+|   |   |   ├── Lists of anime and manga characters
+|   |   |   ├── Anime and manga characters by gender
+|   |   |   ├── Anime and manga characters by role
+|   |   |   ├── Anime and manga characters by series
+|   |   |   ├── Anime and manga characters by superhuman feature or ability
+|   |   |   ├── Adoptee characters in anime and manga
+|   |   |   ├── Child characters in anime and manga
+|   |   |   ├── Clamp characters
+|   |   |   ├── Fantasy anime and manga characters
+|   |   |   ├── Fictional Japanese people in anime and manga
+|   |   |   ├── LGBT characters in anime and manga
+|   |   |   ├── Anime and manga mascots
+|   |   |   ├── Orphan characters in anime and manga
+|   |   |   ├── Osamu Tezuka characters
+|   |   |   ├── Teenage characters in anime and manga
+|   |   |   └── Anime and manga character redirects to lists
+|   |   ├── Fictional elements from anime and manga
+|   |   |   └── Fictional mecha
+|   |   ├── Anime and manga controversies
+|   |   |   └── Lolicon
+|   |   ├── Anime and manga fandom
+|   |   |   ├── Anime clubs
+|   |   |   ├── Anime conventions
+|   |   |   ├── Doujin
+|   |   |   ├── Japanese webtoons
+|   |   |   ├── Otaku
+|   |   |   ├── Anime and manga inspired webcomics
+|   |   |   └── Anime and manga websites
+|   |   ├── Anime and manga images
+|   |   |   ├── Light novel cover images
+|   |   |   ├── Anime video covers
+|   |   |   ├── Manga cover images
+|   |   |   ├── Aim for the Top! images
+|   |   |   ├── Battle Angel Alita images
+|   |   |   ├── Battle Royale images
+|   |   |   ├── Berserk (manga) media files
+|   |   |   ├── The Big O images
+|   |   |   ├── Bleach images
+|   |   |   ├── Boogiepop mass media
+|   |   |   ├── Bubblegum Crisis images
+|   |   |   ├── Case Closed images
+|   |   |   ├── Clamp manga images
+|   |   |   ├── Claymore (manga) images
+|   |   |   ├── D.Gray-man images
+|   |   |   ├── Darling in the Franxx files
+|   |   |   ├── Date A Live images
+|   |   |   ├── Death Note images
+|   |   |   ├── Di Gi Charat images
+|   |   |   ├── Digimon media files
+|   |   |   ├── Dragon Ball images
+|   |   |   ├── El-Hazard images
+|   |   |   ├── Eyeshield 21 images
+|   |   |   ├── Fullmetal Alchemist images
+|   |   |   ├── Gainax images
+|   |   |   ├── Ghost in the Shell images
+|   |   |   ├── Gin Tama images
+|   |   |   ├── Gundam images
+|   |   |   ├── Haibane Renmei media
+|   |   |   ├── Hajime no Ippo media files
+|   |   |   ├── Haruhi Suzumiya images
+|   |   |   ├── High School DxD images
+|   |   |   ├── I'm Gonna be an Angel images
+|   |   |   ├── Inio Asano media
+|   |   |   ├── Inuyasha images
+|   |   |   ├── JoJo's Bizarre Adventure images
+|   |   |   ├── Junji Ito media
+|   |   |   ├── Kaiji images
+|   |   |   ├── Legend of the Galactic Heroes images
+|   |   |   ├── Lord Marksman and Vanadis images
+|   |   |   ├── Lupin the Third images
+|   |   |   ├── Macross images
+|   |   |   ├── Magical Fairy Persia images
+|   |   |   ├── Marmalade Boy images
+|   |   |   ├── Martian Successor Nadesico images
+|   |   |   ├── Mermaid Melody Pichi Pichi Pitch mass media
+|   |   |   ├── Naruto images
+|   |   |   ├── Neon Genesis Evangelion images
+|   |   |   ├── Noir (TV series) images
+|   |   |   ├── Oh My Goddess! images
+|   |   |   ├── Osamu Tezuka media
+|   |   |   ├── Patlabor images
+|   |   |   ├── Planetes images
+|   |   |   ├── Pokémon images
+|   |   |   ├── Pretty Cure images
+|   |   |   ├── RahXephon images
+|   |   |   ├── Ranma ½ images
+|   |   |   ├── Re:Zero images
+|   |   |   ├── Reborn! images
+|   |   |   ├── The Rose of Versailles images
+|   |   |   ├── Rurouni Kenshin images
+|   |   |   ├── Sailor Moon images
+|   |   |   ├── Saint Seiya images
+|   |   |   ├── Samurai Champloo images
+|   |   |   ├── School Rumble images
+|   |   |   ├── The Seven Deadly Sins images
+|   |   |   ├── Sgt. Frog images
+|   |   |   ├── Slam Dunk (manga) images
+|   |   |   ├── Slayers images
+|   |   |   ├── Sword Art Online images
+|   |   |   ├── Trigun images
+|   |   |   ├── Type-Moon images
+|   |   |   ├── YuYu Hakusho images
+|   |   |   └── Zatch Bell! images
+|   |   ├── Anime and manga lists
+|   |   |   ├── Lists of manga
+|   |   |   ├── Lists of anime
+|   |   |   ├── Lists of anime and manga characters
+|   |   |   ├── Anime and manga lists by franchise
+|   |   |   └── Lists of works based on manga
+|   |   ├── Anime and manga museums in Japan
+|   |   ├── Musicals based on anime and manga
+|   |   ├── Anime and manga stubs
+|   |   |   ├── Anime industry biography stubs
+|   |   |   ├── Manga artist stubs
+|   |   |   ├── Anime film stubs
+|   |   |   ├── Anime game stubs
+|   |   |   ├── Hentai stubs
+|   |   |   ├── Light novel stubs
+|   |   |   ├── Anime and manga magazine stubs
+|   |   |   ├── Manga stubs
+|   |   |   ├── Anime and manga organisation stubs
+|   |   |   ├── Anime OVA stubs
+|   |   |   ├── Anime series stubs
+|   |   |   └── Visual novel stubs
+|   |   └── Anime and manga terminology
+|   |       ├── Ecchi anime and manga
+|   |       ├── Gekiga
+|   |       ├── Hentai
+|   |       ├── Isekai
+|   |       ├── Lolicon
+|   |       ├── Magical girl
+|   |       ├── Mecha anime and manga
+|   |       ├── Moe (slang)
+|   |       ├── Otaku
+|   |       ├── Yaoi
+|   |       └── Yuri (genre)
+|   ├── Blu-ray Disc
+|   |   └── Software Blu-ray players
+|   ├── Camcorders
+|   |   ├── Camcorder films
+|   |   ├── Canon camcorders
+|   |   ├── JVC camcorders
+|   |   ├── Panasonic camcorders
+|   |   └── Sony camcorders
+|   ├── Chiptune
+|   |   ├── Chiptune albums
+|   |   |   ├── Nintendocore albums
+|   |   |   ├── I Fight Dragons albums
+|   |   |   └── Karate High School albums
+|   |   ├── Chiptune musical groups
+|   |   |   └── Nintendocore musical groups
+|   |   ├── Chiptune musicians
+|   |   └── Nintendocore
+|   |       ├── Nintendocore albums
+|   |       └── Nintendocore musical groups
+|   ├── Compact disc
+|   |   ├── CD-ROM-based consoles
+|   |   ├── Compact Disc player manufacturers
+|   |   ├── Optical disc authoring
+|   |   |   └── Optical disc authoring software
+|   |   ├── Optical disc authoring software
+|   |   |   ├── Free optical disc authoring software
+|   |   |   ├── Compact Disc and DVD copy protection
+|   |   |   ├── Free DVD burning software
+|   |   |   ├── Linux CD/DVD writing software
+|   |   |   └── Windows CD/DVD writing software
+|   |   ├── Compact Disc and DVD copy protection
+|   |   |   ├── Advanced Access Content System
+|   |   |   └── DVD Copy Control Association
+|   |   ├── Rainbow Books
+|   |   └── CD ripping software
+|   |       ├── Console CD ripping software
+|   |       ├── Linux CD ripping software
+|   |       ├── MacOS CD ripping software
+|   |       └── Windows CD ripping software
+|   ├── Crops originating from Japan
+|   ├── Japanese dolls
+|   ├── DVD
+|   |   ├── DVD companies
+|   |   |   ├── DVD companies of the United Kingdom
+|   |   |   └── DVD companies of the United States
+|   |   ├── DVD interactive technology
+|   |   |   ├── DVD game covers
+|   |   |   └── Screenshots of DVD games
+|   |   ├── DVD rippers
+|   |   ├── HD DVD
+|   |   ├── DVD magazines
+|   |   ├── DVD manufacturing
+|   |   |   └── DVD companies
+|   |   ├── Optical disc authoring
+|   |   |   └── Optical disc authoring software
+|   |   ├── Optical disc authoring software
+|   |   |   ├── Free optical disc authoring software
+|   |   |   ├── Compact Disc and DVD copy protection
+|   |   |   ├── Free DVD burning software
+|   |   |   ├── Linux CD/DVD writing software
+|   |   |   └── Windows CD/DVD writing software
+|   |   ├── Compact Disc and DVD copy protection
+|   |   |   ├── Advanced Access Content System
+|   |   |   └── DVD Copy Control Association
+|   |   ├── Software DVD players
+|   |   |   └── Linux DVD players
+|   |   └── Television videos and DVDs
+|   |       └── Looney Tunes home video releases
+|   ├── Emoji
+|   |   ├── Emoticons
+|   |   └── Emoji typefaces
+|   ├── Heat-assisted magnetic recording
+|   ├── High-speed rail
+|   |   ├── High-speed rail by continent
+|   |   |   ├── High-speed rail in Africa
+|   |   |   ├── High-speed rail in Asia
+|   |   |   ├── High-speed rail in Europe
+|   |   |   ├── High-speed rail in North America
+|   |   |   ├── High-speed rail in Oceania
+|   |   |   └── High-speed rail in South America
+|   |   ├── High-speed rail by country
+|   |   |   ├── High-speed trains by country
+|   |   |   ├── High-speed rail in Argentina
+|   |   |   ├── High-speed rail in Australia
+|   |   |   ├── High-speed rail in Austria
+|   |   |   ├── High-speed rail in Belgium
+|   |   |   ├── High-speed rail in Brazil
+|   |   |   ├── High-speed rail in Canada
+|   |   |   ├── High-speed rail in China
+|   |   |   ├── High-speed rail in Croatia
+|   |   |   ├── High-speed rail in Denmark
+|   |   |   ├── High-speed rail in Finland
+|   |   |   ├── High-speed rail in France
+|   |   |   ├── High-speed rail in Germany
+|   |   |   ├── High-speed rail in India
+|   |   |   ├── High-speed rail in Iran
+|   |   |   ├── High-speed rail in Israel
+|   |   |   ├── High-speed rail in Italy
+|   |   |   ├── High-speed rail in Japan
+|   |   |   ├── High-speed rail in Morocco
+|   |   |   ├── High-speed rail in the Netherlands
+|   |   |   ├── High-speed rail in Norway
+|   |   |   ├── High-speed rail in Poland
+|   |   |   ├── High-speed rail in Portugal
+|   |   |   ├── High-speed rail in Russia
+|   |   |   ├── High-speed rail in Saudi Arabia
+|   |   |   ├── High-speed rail in South Korea
+|   |   |   ├── High-speed rail in Spain
+|   |   |   ├── High-speed rail in Sweden
+|   |   |   ├── High-speed rail in Switzerland
+|   |   |   ├── High-speed rail in Taiwan
+|   |   |   ├── High-speed rail in Thailand
+|   |   |   ├── High-speed rail in Turkey
+|   |   |   ├── High-speed rail in the United Kingdom
+|   |   |   ├── High-speed rail in the United States
+|   |   |   └── High-speed rail in Uzbekistan
+|   |   ├── Wikipedia categories named after high-speed rail systems
+|   |   |   ├── California High-Speed Rail
+|   |   |   ├── Eurostar
+|   |   |   ├── Flytoget
+|   |   |   ├── Gardermoen Line
+|   |   |   ├── High Speed 1
+|   |   |   ├── High Speed 2
+|   |   |   ├── Hyperloop
+|   |   |   ├── Intercity Express
+|   |   |   ├── Korea Train Express
+|   |   |   ├── Madrid–Barcelona high-speed rail line
+|   |   |   ├── Shinkansen
+|   |   |   ├── Taiwan High Speed Rail
+|   |   |   └── TGV
+|   |   ├── Higher-speed rail
+|   |   |   └── Brightline
+|   |   ├── Hyperloop
+|   |   ├── Passenger trains running at least at 200 km/h in commercial operations
+|   |   ├── High-speed railway lines
+|   |   |   └── High-speed railway lines under construction
+|   |   └── High-speed trains
+|   |       ├── High-speed trains by country
+|   |       ├── High-speed trains by manufacturer
+|   |       ├── Passenger trains by operating speed
+|   |       ├── Double-decker high-speed trains
+|   |       ├── Experimental and prototype high-speed trains
+|   |       ├── Hovertrains
+|   |       ├── Intercity Express
+|   |       ├── Low-cost high-speed rail services
+|   |       ├── Magnetic levitation
+|   |       ├── Pendolino
+|   |       └── TGV
+|   ├── Japanese inventors
+|   |   ├── 20th-century Japanese inventors
+|   |   └── 21st-century Japanese inventors
+|   ├── Japanese bamboowork
+|   ├── Japanese games
+|   |   ├── Japanese card games
+|   |   |   ├── Hanafuda card games
+|   |   |   ├── Pokémon Trading Card Game
+|   |   |   └── Yu-Gi-Oh! Trading Card Game
+|   |   ├── Go in Japan
+|   |   |   ├── Go competitions in Japan
+|   |   |   └── Japanese Go players
+|   |   ├── Japanese role-playing games
+|   |   |   └── Japanese role-playing video games
+|   |   ├── Video game magazines published in Japan
+|   |   ├── Renju
+|   |   |   ├── Renju competitions
+|   |   |   ├── Renju opening rules
+|   |   |   └── Renju players
+|   |   ├── Reversi
+|   |   |   ├── Reversi players
+|   |   |   └── Reversi software
+|   |   ├── Shogi
+|   |   |   ├── Computer shogi
+|   |   |   ├── Shogi organizations
+|   |   |   ├── Shogi players
+|   |   |   ├── Shogi templates
+|   |   |   ├── Shogi theory
+|   |   |   ├── Shogi tournaments
+|   |   |   ├── Shogi variants
+|   |   |   ├── Shogi YouTubers
+|   |   |   ├── Works about shogi
+|   |   |   └── Shogi stubs
+|   |   ├── Video game companies of Japan
+|   |   |   ├── Defunct video game companies of Japan
+|   |   |   ├── Bandai Namco Holdings
+|   |   |   ├── Capcom
+|   |   |   ├── City Connection (company)
+|   |   |   ├── CyberAgent
+|   |   |   ├── Gainax
+|   |   |   ├── GungHo Online Entertainment
+|   |   |   ├── Hamster Corporation
+|   |   |   ├── Irem
+|   |   |   ├── Koei Tecmo
+|   |   |   ├── Konami
+|   |   |   ├── Level-5 (company)
+|   |   |   ├── Mages (company)
+|   |   |   ├── Marvelous (company)
+|   |   |   ├── Nintendo
+|   |   |   ├── Nippon Ichi Software
+|   |   |   ├── Nitroplus
+|   |   |   ├── OLM, Inc.
+|   |   |   ├── Red Entertainment
+|   |   |   ├── Sega
+|   |   |   ├── SNK
+|   |   |   ├── SNK Playmore
+|   |   |   ├── Spike Chunsoft
+|   |   |   ├── Square Enix
+|   |   |   ├── Taito
+|   |   |   ├── Technical Group Laboratory
+|   |   |   ├── Toei Company
+|   |   |   ├── Toho
+|   |   |   ├── Tokuma Shoten
+|   |   |   ├── Type-Moon
+|   |   |   ├── Japanese video game company stubs
+|   |   |   └── Wikipedia categories named after video game companies of Japan
+|   |   ├── Video games developed in Japan
+|   |   |   ├── Japanese role-playing video games
+|   |   |   ├── Video games by Japanese companies
+|   |   |   ├── Bishōjo games
+|   |   |   ├── Eroge
+|   |   |   ├── Video games based on anime and manga
+|   |   |   ├── A.I Company games
+|   |   |   ├── Ace Attorney video games
+|   |   |   ├── Alex Kidd games
+|   |   |   ├── Animal Crossing
+|   |   |   ├── Ape Escape games
+|   |   |   ├── AQ Interactive games
+|   |   |   ├── Ar Tonelico
+|   |   |   ├── Arc the Lad
+|   |   |   ├── Armored Core
+|   |   |   ├── ASCII Corporation games
+|   |   |   ├── Asmik Ace Entertainment games
+|   |   |   ├── Atlus games
+|   |   |   ├── Azure Striker Gunvolt
+|   |   |   ├── Azure Striker Gunvolt series
+|   |   |   ├── Bandai Namco games
+|   |   |   ├── Bayonetta
+|   |   |   ├── Beatmania games
+|   |   |   ├── Bemani games
+|   |   |   ├── BlazBlue
+|   |   |   ├── Bloody Roar
+|   |   |   ├── Bomberman
+|   |   |   ├── Breath of Fire
+|   |   |   ├── Bubble Bobble
+|   |   |   ├── Capcom franchises
+|   |   |   ├── CAProduction games
+|   |   |   ├── Castlevania games
+|   |   |   ├── Chocobo games
+|   |   |   ├── Clover Studio games
+|   |   |   ├── Contra (series)
+|   |   |   ├── Cooking Mama
+|   |   |   ├── CyberConnect2 games
+|   |   |   ├── D3 Publisher games
+|   |   |   ├── D4 Enterprise games
+|   |   |   ├── Danganronpa video games
+|   |   |   ├── Dead or Alive (franchise) video games
+|   |   |   ├── Dead Rising
+|   |   |   ├── Dino Crisis
+|   |   |   ├── Doujin video games
+|   |   |   ├── Dragon Quest video games
+|   |   |   ├── Dragon Slayer (series)
+|   |   |   ├── Earth Defense Force
+|   |   |   ├── Epoch Co. games
+|   |   |   ├── The Evil Within
+|   |   |   ├── Exact games
+|   |   |   ├── F-Zero
+|   |   |   ├── Face (company) games
+|   |   |   ├── Fatal Frame games
+|   |   |   ├── Feelplus games
+|   |   |   ├── Final Fantasy video games
+|   |   |   ├── Final Fight games
+|   |   |   ├── Fire Emblem video games
+|   |   |   ├── Fire Pro Wrestling
+|   |   |   ├── French-Bread games
+|   |   |   ├── Front Mission
+|   |   |   ├── Galaxian
+|   |   |   ├── Galerians series
+|   |   |   ├── Ganbare Goemon games
+|   |   |   ├── Gazelle (software company) games
+|   |   |   ├── Ghost Trick: Phantom Detective
+|   |   |   ├── Ghosts 'n Goblins
+|   |   |   ├── God Eater
+|   |   |   ├── Gradius video games
+|   |   |   ├── Gran Turismo (series)
+|   |   |   ├── Grasshopper Manufacture games
+|   |   |   ├── Growlanser
+|   |   |   ├── Guilty Gear
+|   |   |   ├── .hack video games
+|   |   |   ├── Hudson Soft games
+|   |   |   ├── Inti Creates games
+|   |   |   ├── Kamen Rider video games
+|   |   |   ├── KID games
+|   |   |   ├── Kirby (series) video games
+|   |   |   ├── Klonoa
+|   |   |   ├── Koihime Musō
+|   |   |   ├── Konami franchises
+|   |   |   ├── Konami games
+|   |   |   ├── Kunio-kun
+|   |   |   ├── Langrisser
+|   |   |   ├── Level-5 (company) games
+|   |   |   ├── Lunar (series)
+|   |   |   ├── Mana (series)
+|   |   |   ├── Mana (series) video games
+|   |   |   ├── Mario & Sonic at the Olympic Games
+|   |   |   ├── Mario Kart
+|   |   |   ├── Mario Party
+|   |   |   ├── Mario sports games
+|   |   |   ├── Mario video games
+|   |   |   ├── Marl Kingdom
+|   |   |   ├── Marvel vs. Capcom
+|   |   |   ├── Marvelous (company) games
+|   |   |   ├── Marvelous Entertainment games
+|   |   |   ├── Matrix Software games
+|   |   |   ├── Mega Man Battle Network games
+|   |   |   ├── Mega Man X games
+|   |   |   ├── Mega Man Zero games
+|   |   |   ├── Minato Giken games
+|   |   |   ├── Monster Rancher
+|   |   |   ├── Mother (video game series)
+|   |   |   ├── Namco games
+|   |   |   ├── Natsume (company) games
+|   |   |   ├── Nazca Corporation games
+|   |   |   ├── Ninja Gaiden games
+|   |   |   ├── Nintendo franchises
+|   |   |   ├── NMK (company) games
+|   |   |   ├── No More Heroes (series)
+|   |   |   ├── Now Production games
+|   |   |   ├── Nude Maker games
+|   |   |   ├── Ogre Battle
+|   |   |   ├── Ōkami
+|   |   |   ├── Pac-Man
+|   |   |   ├── Pack-In-Video games
+|   |   |   ├── Parodius
+|   |   |   ├── Sega Pico games
+|   |   |   ├── Pikmin
+|   |   |   ├── PlatinumGames games
+|   |   |   ├── Polestar games
+|   |   |   ├── Produce! games
+|   |   |   ├── Punch-Out!!
+|   |   |   ├── R-Type
+|   |   |   ├── Resident Evil games
+|   |   |   ├── Ridge Racer
+|   |   |   ├── Rival Schools
+|   |   |   ├── Rutubo Games games
+|   |   |   ├── SaGa
+|   |   |   ├── Sailor Moon games
+|   |   |   ├── Sandlot games
+|   |   |   ├── Sega video games
+|   |   |   ├── Sega games
+|   |   |   ├── Seika Corporation games
+|   |   |   ├── SETA Corporation games
+|   |   |   ├── Shadow Hearts
+|   |   |   ├── Shining (series)
+|   |   |   ├── Silent Hill games
+|   |   |   ├── Siren (series) games
+|   |   |   ├── SNK games
+|   |   |   ├── Sonic the Hedgehog video games
+|   |   |   ├── Soulcalibur series games
+|   |   |   ├── Space Invaders
+|   |   |   ├── Star Fox video games
+|   |   |   ├── Star Ocean
+|   |   |   ├── Steel Battalion
+|   |   |   ├── Story of Seasons games
+|   |   |   ├── Street Fighter games
+|   |   |   ├── Success (company) games
+|   |   |   ├── Suikoden
+|   |   |   ├── Sunsoft games
+|   |   |   ├── Super Smash Bros.
+|   |   |   ├── Taiko no Tatsujin
+|   |   |   ├── Taito games
+|   |   |   ├── Takara video games
+|   |   |   ├── Tales (video game series) video games
+|   |   |   ├── Tango Gameworks games
+|   |   |   ├── Team Ninja games
+|   |   |   ├── Technosoft games
+|   |   |   ├── Tecmo Bowl
+|   |   |   ├── Tekken games
+|   |   |   ├── Telenet Japan games
+|   |   |   ├── Tenchu games
+|   |   |   ├── Toaplan games
+|   |   |   ├── Tokimeki Memorial
+|   |   |   ├── Tomy games
+|   |   |   ├── Trauma Center (video game series)
+|   |   |   ├── TwinBee games
+|   |   |   ├── Ukiyotei games
+|   |   |   ├── Victor Entertainment games
+|   |   |   ├── Victor Interactive Software games
+|   |   |   ├── Video games related to anime and manga
+|   |   |   ├── Viewtiful Joe
+|   |   |   ├── Virtual Pro Wrestling games
+|   |   |   ├── Visco Corporation games
+|   |   |   ├── Wario Land
+|   |   |   ├── Wario video games
+|   |   |   ├── WarioWare
+|   |   |   ├── Wars (series)
+|   |   |   ├── Wild Arms video games
+|   |   |   ├── Wolf Team games
+|   |   |   ├── WWE Raw video games
+|   |   |   ├── WWE SmackDown video games
+|   |   |   ├── Xenosaga
+|   |   |   ├── Xevious
+|   |   |   ├── Yu-Gi-Oh! video games
+|   |   |   ├── ZAP Corporation games
+|   |   |   ├── Zero Escape
+|   |   |   └── Zone of the Enders games
+|   |   ├── Video gaming in Japan
+|   |   |   ├── Video games by Japanese companies
+|   |   |   ├── Video game companies of Japan
+|   |   |   ├── Esports in Japan
+|   |   |   ├── Video games developed in Japan
+|   |   |   ├── Video games set in Japan
+|   |   |   ├── Video game magazines published in Japan
+|   |   |   └── Japanese people in the video game industry
+|   |   └── Japanese word games
+|   ├── Japanese lacquerware
+|   |   ├── Japanese lacquerware artists
+|   |   ├── Japanese tea utensils
+|   |   ├── Netsuke
+|   |   |   └── Netsuke-shi
+|   |   └── Samurai weapons and equipment
+|   |       ├── Samurai armour
+|   |       ├── Samurai chain weapons
+|   |       ├── Samurai clothing
+|   |       ├── Samurai clubs and truncheons
+|   |       ├── Samurai polearms
+|   |       ├── Samurai police weapons
+|   |       ├── Samurai staff weapons
+|   |       └── Samurai swords
+|   ├── Japanese musical instruments
+|   |   ├── Ainu musical instruments
+|   |   ├── Akai synthesizers
+|   |   ├── Casio musical instruments
+|   |   |   └── Casio synthesizers
+|   |   ├── Kawai synthesizers
+|   |   ├── Korg synthesizers
+|   |   ├── Roland synthesizers
+|   |   |   ├── D-Beam
+|   |   |   ├── Roland Keytars
+|   |   |   └── Roland drum machines
+|   |   └── Yamaha music products
+|   |       ├── Yamaha digital pianos
+|   |       ├── Yamaha electric guitars
+|   |       ├── Yamaha guitars
+|   |       ├── Yamaha synthesizers
+|   |       └── Yamaha sound chips
+|   ├── Microcomputers
+|   |   ├── 6502-based home computers
+|   |   |   ├── 65xx-based video game consoles
+|   |   |   ├── Apple II clones
+|   |   |   ├── Apple II computers
+|   |   |   ├── Apple II family
+|   |   |   └── Commodore 64
+|   |   ├── Early microcomputers
+|   |   |   ├── S-100 machines
+|   |   |   └── Vinyl data
+|   |   ├── Home computers
+|   |   |   ├── 6502-based home computers
+|   |   |   ├── 6809-based home computers
+|   |   |   ├── 8086-based home computers
+|   |   |   ├── 68000-based home computers
+|   |   |   ├── ARM-based home computers
+|   |   |   ├── Z80-based home computers
+|   |   |   ├── Home computer hardware companies
+|   |   |   ├── Home computer magazines
+|   |   |   ├── Home computer peripherals
+|   |   |   ├── Home computer software
+|   |   |   ├── Amiga
+|   |   |   ├── Apple II family
+|   |   |   ├── Atari 8-bit family
+|   |   |   ├── Atari ST
+|   |   |   ├── Commodore 8-bit computers
+|   |   |   ├── FM Towns
+|   |   |   ├── Galaksija (computer)
+|   |   |   ├── Microdigital Eletrônica
+|   |   |   ├── MSX
+|   |   |   ├── Prológica
+|   |   |   ├── Prológica computers
+|   |   |   ├── Home computer remakes
+|   |   |   ├── Sharp X68000
+|   |   |   ├── Sinclair computers and derivatives
+|   |   |   ├── ZX Spectrum
+|   |   |   ├── Texas Instruments TI-99/4A
+|   |   |   └── TRS-80
+|   |   ├── Open computers
+|   |   ├── Personal computers
+|   |   |   ├── Personal computers by brand
+|   |   |   ├── Amiga
+|   |   |   ├── Atari ST
+|   |   |   ├── Desktop computers
+|   |   |   ├── FM Towns
+|   |   |   ├── PC games
+|   |   |   ├── Gaming computers
+|   |   |   ├── Handheld personal computers
+|   |   |   ├── IBM PC compatibles
+|   |   |   ├── Laptops
+|   |   |   ├── Nettop
+|   |   |   ├── Sealed computers
+|   |   |   └── Tablet computers
+|   |   ├── Portable computers
+|   |   |   ├── Compaq Portable
+|   |   |   ├── Docking stations
+|   |   |   ├── Handheld game consoles
+|   |   |   └── Smartwatches
+|   |   ├── Single-board computers
+|   |   |   ├── All-in-one desktop computers
+|   |   |   ├── Handheld game consoles
+|   |   |   ├── Laptops
+|   |   |   ├── Nettop
+|   |   |   └── Raspberry Pi
+|   |   ├── Microcomputer software
+|   |   |   ├── AROS software
+|   |   |   ├── BeOS software
+|   |   |   ├── CP/M software
+|   |   |   ├── DOS software
+|   |   |   ├── GEM software
+|   |   |   ├── Home computer software
+|   |   |   ├── Linux software
+|   |   |   ├── Macintosh software
+|   |   |   ├── Multics software
+|   |   |   ├── OS/2 software
+|   |   |   └── Windows software
+|   |   ├── Workstations
+|   |   |   ├── Computer workstations
+|   |   |   └── Music workstations
+|   |   ├── ZX Spectrum
+|   |   |   ├── ZX Spectrum clones
+|   |   |   ├── ZX Spectrum magazines
+|   |   |   ├── Screenshots of ZX Spectrum software
+|   |   |   └── ZX Spectrum software
+|   |   └── Microcomputer stubs
+|   |       ├── DOS stubs
+|   |       ├── Macintosh stubs
+|   |       └── Microsoft stubs
+|   ├── Mobile web
+|   |   ├── Adaptive web design
+|   |   ├── Mobile hotspots
+|   |   ├── Mobile web browsers
+|   |   |   ├── Android web browsers
+|   |   |   └── IOS web browsers
+|   |   ├── Responsive web design
+|   |   ├── Wireless Application Protocol
+|   |   └── Wireless email
+|   ├── MPEG
+|   |   ├── Digital Video Broadcasting
+|   |   |   └── Digital Video Broadcasting software
+|   |   ├── ISDB
+|   |   |   └── ABNT standards
+|   |   ├── MP3
+|   |   |   └── Digital audio players
+|   |   ├── MPEG-2
+|   |   ├── MPEG-4
+|   |   ├── MPEG-H
+|   |   └── Portable media players
+|   |       ├── Touchscreen portable media players
+|   |       └── Windows Mobile devices
+|   ├── Origami
+|   |   ├── Origami artists
+|   |   ├── Origami in fiction
+|   |   └── Paper planes
+|   ├── Japanese paper
+|   ├── Pocket computers
+|   |   └── Sharp pocket computers
+|   ├── Rainbow Books
+|   ├── Rickshaws
+|   |   └── Rickshaw manufacturers of Pakistan
+|   ├── Sports originating in Japan
+|   └── VHS
+├── Korean inventions
+|   ├── Hangul
+|   |   └── Hangul jamo
+|   ├── Korean musical instruments
+|   ├── Korean paper
+|   ├── MPEG
+|   |   ├── Digital Video Broadcasting
+|   |   |   └── Digital Video Broadcasting software
+|   |   ├── ISDB
+|   |   |   └── ABNT standards
+|   |   ├── MP3
+|   |   |   └── Digital audio players
+|   |   ├── MPEG-2
+|   |   ├── MPEG-4
+|   |   ├── MPEG-H
+|   |   └── Portable media players
+|   |       ├── Touchscreen portable media players
+|   |       └── Windows Mobile devices
+|   ├── South Korean inventions
+|   |   ├── SDRAM
+|   |   └── Sports originating in South Korea
+|   └── Sports originating in Korea
+|       ├── Sports originating in South Korea
+|       └── Yongmudo
+|           └── Yongmudo practitioners
+├── Latvian inventions
+├── Lithuanian inventions
+|   └── Sports originating in Lithuania
+├── Malaysian inventions
+|   └── Sports originating in Malaysia
+├── Mesopotamian inventions
+├── Mexican inventions
+|   └── Sports originating in Mexico
+├── Mongolian inventions
+|   └── Sports originating in Mongolia
+├── New Zealand inventions
+|   ├── New Zealand inventors
+|   |   └── 20th-century New Zealand inventors
+|   └── Sports originating in New Zealand
+|       └── Māori sport
+|           ├── Māori All Blacks
+|           ├── New Zealand Māori rugby league team
+|           ├── New Zealand Māori sportspeople
+|           └── New Zealand martial arts
+├── Nigerian inventions
+|   └── Nigerian inventors
+|       └── 20th-century Nigerian inventors
+├── Northern Irish inventions
+├── Norwegian inventions
+|   └── Sports originating in Norway
+├── Pakistani inventions
+|   ├── Pakistani inventors
+|   ├── Inventions of the Indus Valley civilisation
+|   └── Sports originating in Pakistan
+├── Palestinian inventions
+├── Peruvian inventions
+|   └── Sports originating in Peru
+├── Polish inventions
+├── Portuguese inventions
+|   └── Portuguese inventors
+├── Qatari inventions
+├── Romanian inventions
+|   ├── Ejection seats
+|   |   └── Martin-Baker ejection seats
+|   └── Sports originating in Romania
+├── Russian inventions
+|   ├── Inventions by Léon Theremin
+|   |   └── Theremins
+|   |       ├── Composers for theremin
+|   |       └── Theremin players
+|   ├── Soviet inventions
+|   |   ├── Soviet computer systems
+|   |   |   ├── Ministry of Radio Industry (USSR) computers
+|   |   |   └── Ministry of the Electronics Industry (Soviet Union) computers
+|   |   ├── GLONASS
+|   |   |   └── GLONASS satellites
+|   |   ├── Inventions by Léon Theremin
+|   |   |   └── Theremins
+|   |   ├── Novichok agents
+|   |   ├── Reconnaissance satellites of the Soviet Union
+|   |   |   ├── Almaz program
+|   |   |   ├── Oko
+|   |   |   ├── Yantar (satellite)
+|   |   |   └── Zenit-2 satellites
+|   |   ├── Russian and Soviet military radars
+|   |   ├── Soviet and Russian aircraft engines
+|   |   |   ├── Aviadvigatel aircraft engines
+|   |   |   ├── Ivchenko-Progress aircraft engines
+|   |   |   ├── Klimov aircraft engines
+|   |   |   ├── Kuznetsov aircraft engines
+|   |   |   ├── Lyulka aircraft engines
+|   |   |   ├── Mikulin aircraft engines
+|   |   |   ├── Saturn aircraft engines
+|   |   |   ├── Shvetsov aircraft engines
+|   |   |   ├── Soloviev aircraft engines
+|   |   |   └── Tumansky aircraft engines
+|   |   ├── Soviet naval reactors
+|   |   ├── Space launch vehicles of the Soviet Union
+|   |   |   ├── R-7 (rocket family)
+|   |   |   ├── Sounding rockets of the Soviet Union
+|   |   |   ├── Universal Rocket (rocket family)
+|   |   |   ├── Yuzhmash space launch vehicles
+|   |   |   └── Zenit (rocket family)
+|   |   ├── Sports originating in the Soviet Union
+|   |   └── Ternary computers
+|   |       └── Non-volatile random-access memory
+|   ├── Sports originating in Russia
+|   |   └── Russian martial arts
+|   └── Ternary computers
+|       └── Non-volatile random-access memory
+├── Samoan inventions
+|   └── Sports originating in Samoa
+├── Scottish inventions
+|   ├── Scottish inventors
+|   |   ├── 19th-century Scottish inventors
+|   |   ├── 20th-century Scottish inventors
+|   |   ├── 21st-century Scottish inventors
+|   |   ├── Alexander Graham Bell
+|   |   |   └── Cultural depictions of Alexander Graham Bell
+|   |   └── James Clerk Maxwell
+|   |       ├── Maxwell–Boltzmann statistics
+|   |       ├── Maxwell's equations
+|   |       └── Works by James Clerk Maxwell
+|   ├── Scottish musical instruments
+|   |   └── Shetland musical instruments
+|   ├── Sirens
+|   ├── Sports originating in Scotland
+|   ├── Steam hammers
+|   └── Whisky
+|       ├── Whisky by country
+|       |   ├── Australian whisky
+|       |   ├── Canadian whisky
+|       |   ├── Danish whisky
+|       |   ├── French whisky
+|       |   ├── German whisky
+|       |   ├── Indian whisky
+|       |   ├── Irish whiskey
+|       |   ├── Japanese whisky
+|       |   ├── Mexican whisky
+|       |   ├── Scotch whisky
+|       |   ├── South African whisky
+|       |   ├── Taiwanese whisky
+|       |   ├── Whiskies of the United States
+|       |   └── Welsh whisky
+|       ├── Cask strength
+|       ├── Cocktails with whisky
+|       |   ├── Cocktails with bourbon whiskey
+|       |   ├── Cocktails with rye whisky
+|       |   └── Cocktails with Scotch whisky
+|       ├── Malt whisky
+|       ├── Rye whiskey
+|       |   ├── Canadian whisky
+|       |   └── Cocktails with rye whisky
+|       ├── Sazerac Company brands
+|       ├── Wheat whisky
+|       ├── Whiskies of Asia
+|       |   ├── Indian whisky
+|       |   ├── Japanese whisky
+|       |   └── Taiwanese whisky
+|       ├── Whisky blenders
+|       ├── Whisky distillers
+|       ├── Whisky trails
+|       ├── Whisky writers
+|       └── Whisky stubs
+├── Senegalese inventions
+|   └── Sports originating in Senegal
+├── Serbian inventions
+|   └── Inventions by Nikola Tesla
+|       └── Three-phase AC power
+|           └── Railways using three-phase power
+├── Somali inventions
+├── South African inventions
+|   └── Sports originating in South Africa
+├── South Korean inventions
+|   ├── SDRAM
+|   └── Sports originating in South Korea
+├── Soviet inventions
+|   ├── Soviet computer systems
+|   |   ├── Ministry of Radio Industry (USSR) computers
+|   |   └── Ministry of the Electronics Industry (Soviet Union) computers
+|   ├── GLONASS
+|   |   └── GLONASS satellites
+|   ├── Inventions by Léon Theremin
+|   |   └── Theremins
+|   |       ├── Composers for theremin
+|   |       └── Theremin players
+|   ├── Novichok agents
+|   ├── Reconnaissance satellites of the Soviet Union
+|   |   ├── Almaz program
+|   |   ├── Oko
+|   |   ├── Yantar (satellite)
+|   |   └── Zenit-2 satellites
+|   ├── Russian and Soviet military radars
+|   ├── Soviet and Russian aircraft engines
+|   |   ├── Aviadvigatel aircraft engines
+|   |   ├── Ivchenko-Progress aircraft engines
+|   |   ├── Klimov aircraft engines
+|   |   ├── Kuznetsov aircraft engines
+|   |   ├── Lyulka aircraft engines
+|   |   ├── Mikulin aircraft engines
+|   |   ├── Saturn aircraft engines
+|   |   ├── Shvetsov aircraft engines
+|   |   ├── Soloviev aircraft engines
+|   |   └── Tumansky aircraft engines
+|   ├── Soviet naval reactors
+|   ├── Space launch vehicles of the Soviet Union
+|   |   ├── R-7 (rocket family)
+|   |   |   ├── R-7 (rocket family) launches
+|   |   |   └── Spacecraft launched by Soyuz rockets
+|   |   ├── Sounding rockets of the Soviet Union
+|   |   ├── Universal Rocket (rocket family)
+|   |   |   ├── Spacecraft launched by Proton rockets
+|   |   |   └── Spacecraft launched by Rokot rockets
+|   |   ├── Yuzhmash space launch vehicles
+|   |   |   └── Zenit (rocket family)
+|   |   └── Zenit (rocket family)
+|   |       └── Spacecraft launched by Zenit and Energia rockets
+|   ├── Sports originating in the Soviet Union
+|   └── Ternary computers
+|       └── Non-volatile random-access memory
+├── Spanish inventions
+|   └── Sports originating in Spain
+├── Swedish inventions
+|   ├── Swedish inventors
+|   |   ├── 17th-century Swedish inventors
+|   |   ├── 18th-century Swedish inventors
+|   |   ├── 19th-century Swedish inventors
+|   |   |   └── Alfred Nobel
+|   |   ├── 20th-century Swedish inventors
+|   |   └── 21st-century Swedish inventors
+|   └── Sports originating in Sweden
+├── Swiss inventions
+|   ├── Sports originating in Switzerland
+|   └── Swiss inventors
+|       ├── 18th-century Swiss inventors
+|       ├── 19th-century Swiss inventors
+|       ├── 20th-century Swiss inventors
+|       └── 21st-century Swiss inventors
+├── Taiwanese inventions
+|   └── Taiwanese inventors
+├── Thai inventions
+|   └── Sports originating in Thailand
+├── Tibetan inventions
+|   └── Tibetan games
+├── Turkish inventions
+├── Ukrainian inventions
+|   └── Ukrainian inventors
+|       └── 20th-century Ukrainian inventors
+├── Uruguayan inventions
+|   ├── Sports originating in Uruguay
+|   └── Uruguayan inventors
+├── Vanuatuan inventions
+├── Venezuelan inventions
+|   └── Sports originating in Venezuela
+└── Vietnamese inventions
